@@ -17,14 +17,19 @@ Este projeto é uma API desenvolvida em **FastAPI** para processar arquivos CSV 
 
 ```
 .
-├── service/
-│   ├── processamento.py  # Função para processar os CSVs
-│
-├── models.py             # Modelos Pydantic
-├── utils.py              # Funções auxiliares
-├── main.py               # Arquivo principal da API
-├── requirements.txt      # Dependências do projeto
-├── README.md             # Documentação do projeto
+├── .gitignore
+├── README.md                # Documentação do projeto
+├── app
+│   ├── __init__.py
+│   ├── main.py              # Arquivo principal da API
+│   ├── models.py            # Modelos Pydantic
+│   ├── services
+│   │   └── data_processor.py # Função para processar os CSVs
+│   └── utils.py             # Funções auxiliares
+├── data
+│   ├── gabarito.csv
+│   └── respostas.csv
+└── requirements.txt         # Dependências do projeto
 ```
 
 ---
@@ -34,8 +39,8 @@ Este projeto é uma API desenvolvida em **FastAPI** para processar arquivos CSV 
 ### 1️⃣ Clonar o Repositório
 
 ```sh
- git clone https://github.com/seu-usuario/nome-do-repositorio.git
- cd nome-do-repositorio
+ git clone https://github.com/BenoGustavo/case-2-einstein-floripa.git
+ cd case-2-einstein-floripa
 ```
 
 ### 2️⃣ Criar e Ativar um Ambiente Virtual (Recomendado)
@@ -122,17 +127,3 @@ curl -X 'GET' 'http://127.0.0.1:8000/results/' -H 'accept: application/json'
 - Caso os arquivos CSV não estejam no formato correto, a API retornará um erro.
 - É necessário fazer upload dos arquivos antes de consultar os resultados.
 - Para testes, utilize os arquivos `gabarito.csv` e `respostas.csv` fornecidos no enunciado.
-
----
-
-## 🛠️ Melhorias Futuras
-
-- Exportação dos resultados para CSV ou PDF.
-- Interface web para upload e visualização dos resultados.
-- Integração com um banco de dados para armazenar histórico de resultados.
-
----
-
-## 📜 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo. 😊
