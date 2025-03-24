@@ -1,0 +1,3511 @@
+aluno_nome,num_exercicio,resp_aluno
+Agamedes Redondo,1,c
+Agamedes Redondo,2,c
+Agamedes Redondo,3,d
+Agamedes Redondo,4,c
+Agamedes Redondo,5,e
+Agamedes Redondo,6,e
+Agamedes Redondo,7,b
+Agamedes Redondo,8,c
+Agamedes Redondo,9,d
+Agamedes Redondo,10,b
+Agamedes Redondo,11,d
+Agamedes Redondo,12,a
+Agamedes Redondo,13,c
+Agamedes Redondo,14,e
+Agamedes Redondo,15,c
+Agamedes Redondo,16,d
+Agamedes Redondo,17,a
+Agamedes Redondo,18,d
+Agamedes Redondo,19,b
+Agamedes Redondo,20,e
+Agamedes Redondo,21,a
+Agamedes Redondo,22,e
+Agamedes Redondo,23,d
+Agamedes Redondo,24,e
+Agamedes Redondo,25,d
+Agamedes Redondo,26,a
+Agamedes Redondo,27,d
+Agamedes Redondo,28,a
+Agamedes Redondo,29,d
+Agamedes Redondo,30,c
+Agamedes Redondo,31,e
+Agamedes Redondo,32,c
+Agamedes Redondo,33,d
+Agamedes Redondo,34,d
+Agamedes Redondo,35,e
+Agamedes Redondo,36,a
+Agamedes Redondo,37,d
+Agamedes Redondo,38,c
+Agamedes Redondo,39,d
+Agamedes Redondo,40,b
+Agamedes Redondo,41,d
+Agamedes Redondo,42,c
+Agamedes Redondo,43,b
+Agamedes Redondo,44,a
+Agamedes Redondo,45,b
+Agamedes Redondo,46,d
+Agamedes Redondo,47,c
+Agamedes Redondo,48,b
+Agamedes Redondo,49,e
+Agamedes Redondo,50,e
+Agamedes Redondo,51,d
+Agamedes Redondo,52,a
+Agamedes Redondo,53,d
+Agamedes Redondo,54,e
+Agamedes Redondo,55,a
+Agamedes Redondo,56,e
+Agamedes Redondo,57,d
+Agamedes Redondo,58,a
+Agamedes Redondo,59,d
+Agamedes Redondo,60,d
+Agamedes Redondo,61,c
+Agamedes Redondo,62,d
+Agamedes Redondo,63,a
+Agamedes Redondo,64,d
+Agamedes Redondo,65,c
+Agamedes Redondo,66,d
+Agamedes Redondo,67,e
+Agamedes Redondo,68,b
+Agamedes Redondo,69,c
+Agamedes Redondo,70,b
+Agamedes Redondo,71,b
+Agamedes Redondo,72,d
+Agamedes Redondo,73,a
+Agamedes Redondo,74,c
+Agamedes Redondo,75,b
+Agamedes Redondo,76,b
+Agamedes Redondo,77,a
+Agamedes Redondo,78,a
+Agamedes Redondo,79,d
+Agamedes Redondo,80,b
+Agamedes Redondo,81,d
+Agamedes Redondo,82,b
+Agamedes Redondo,83,c
+Agamedes Redondo,84,c
+Agamedes Redondo,85,b
+Agamedes Redondo,86,a
+Agamedes Redondo,87,a
+Agamedes Redondo,88,c
+Agamedes Redondo,89,a
+Agamedes Redondo,90,b
+Plauto Felip,1,e
+Plauto Felip,2,b
+Plauto Felip,3,c
+Plauto Felip,4,c
+Plauto Felip,5,b
+Plauto Felip,6,e
+Plauto Felip,7,b
+Plauto Felip,8,d
+Plauto Felip,9,e
+Plauto Felip,10,a
+Plauto Felip,11,e
+Plauto Felip,12,b
+Plauto Felip,13,c
+Plauto Felip,14,d
+Plauto Felip,15,a
+Plauto Felip,16,c
+Plauto Felip,17,a
+Plauto Felip,18,b
+Plauto Felip,19,b
+Plauto Felip,20,d
+Plauto Felip,21,a
+Plauto Felip,22,a
+Plauto Felip,23,d
+Plauto Felip,24,d
+Plauto Felip,25,c
+Plauto Felip,26,d
+Plauto Felip,27,e
+Plauto Felip,28,e
+Plauto Felip,29,b
+Plauto Felip,30,b
+Plauto Felip,31,e
+Plauto Felip,32,a
+Plauto Felip,33,b
+Plauto Felip,34,d
+Plauto Felip,35,c
+Plauto Felip,36,e
+Plauto Felip,37,a
+Plauto Felip,38,d
+Plauto Felip,39,b
+Plauto Felip,40,c
+Plauto Felip,41,d
+Plauto Felip,42,d
+Plauto Felip,43,d
+Plauto Felip,44,c
+Plauto Felip,45,d
+Plauto Felip,46,a
+Plauto Felip,47,d
+Plauto Felip,48,d
+Plauto Felip,49,d
+Plauto Felip,50,e
+Plauto Felip,51,a
+Plauto Felip,52,a
+Plauto Felip,53,c
+Plauto Felip,54,d
+Plauto Felip,55,e
+Plauto Felip,56,b
+Plauto Felip,57,a
+Plauto Felip,58,c
+Plauto Felip,59,c
+Plauto Felip,60,a
+Plauto Felip,61,d
+Plauto Felip,62,e
+Plauto Felip,63,a
+Plauto Felip,64,a
+Plauto Felip,65,b
+Plauto Felip,66,d
+Plauto Felip,67,b
+Plauto Felip,68,e
+Plauto Felip,69,e
+Plauto Felip,70,d
+Plauto Felip,71,e
+Plauto Felip,72,d
+Plauto Felip,73,c
+Plauto Felip,74,d
+Plauto Felip,75,e
+Plauto Felip,76,a
+Plauto Felip,77,d
+Plauto Felip,78,e
+Plauto Felip,79,b
+Plauto Felip,80,b
+Plauto Felip,81,e
+Plauto Felip,82,e
+Plauto Felip,83,c
+Plauto Felip,84,b
+Plauto Felip,85,a
+Plauto Felip,86,d
+Plauto Felip,87,d
+Plauto Felip,88,c
+Plauto Felip,89,e
+Plauto Felip,90,c
+Muniz Barbeito,1,
+Muniz Barbeito,2,
+Muniz Barbeito,3,
+Muniz Barbeito,4,
+Muniz Barbeito,5,
+Muniz Barbeito,6,
+Muniz Barbeito,7,
+Muniz Barbeito,8,
+Muniz Barbeito,9,
+Muniz Barbeito,10,
+Muniz Barbeito,11,
+Muniz Barbeito,12,
+Muniz Barbeito,13,
+Muniz Barbeito,14,
+Muniz Barbeito,15,
+Muniz Barbeito,16,
+Muniz Barbeito,17,
+Muniz Barbeito,18,
+Muniz Barbeito,19,
+Muniz Barbeito,20,
+Muniz Barbeito,21,
+Muniz Barbeito,22,
+Muniz Barbeito,23,
+Muniz Barbeito,24,
+Muniz Barbeito,25,
+Muniz Barbeito,26,
+Muniz Barbeito,27,
+Muniz Barbeito,28,
+Muniz Barbeito,29,
+Muniz Barbeito,30,
+Muniz Barbeito,31,
+Muniz Barbeito,32,
+Muniz Barbeito,33,
+Muniz Barbeito,34,
+Muniz Barbeito,35,
+Muniz Barbeito,36,
+Muniz Barbeito,37,
+Muniz Barbeito,38,
+Muniz Barbeito,39,
+Muniz Barbeito,40,
+Muniz Barbeito,41,
+Muniz Barbeito,42,
+Muniz Barbeito,43,
+Muniz Barbeito,44,
+Muniz Barbeito,45,
+Muniz Barbeito,46,
+Muniz Barbeito,47,
+Muniz Barbeito,48,
+Muniz Barbeito,49,
+Muniz Barbeito,50,
+Muniz Barbeito,51,
+Muniz Barbeito,52,
+Muniz Barbeito,53,
+Muniz Barbeito,54,
+Muniz Barbeito,55,
+Muniz Barbeito,56,
+Muniz Barbeito,57,
+Muniz Barbeito,58,
+Muniz Barbeito,59,
+Muniz Barbeito,60,
+Muniz Barbeito,61,
+Muniz Barbeito,62,
+Muniz Barbeito,63,
+Muniz Barbeito,64,
+Muniz Barbeito,65,
+Muniz Barbeito,66,
+Muniz Barbeito,67,
+Muniz Barbeito,68,
+Muniz Barbeito,69,
+Muniz Barbeito,70,
+Muniz Barbeito,71,
+Muniz Barbeito,72,
+Muniz Barbeito,73,
+Muniz Barbeito,74,
+Muniz Barbeito,75,
+Muniz Barbeito,76,
+Muniz Barbeito,77,
+Muniz Barbeito,78,
+Muniz Barbeito,79,
+Muniz Barbeito,80,
+Muniz Barbeito,81,
+Muniz Barbeito,82,
+Muniz Barbeito,83,
+Muniz Barbeito,84,
+Muniz Barbeito,85,
+Muniz Barbeito,86,
+Muniz Barbeito,87,
+Muniz Barbeito,88,
+Muniz Barbeito,89,
+Muniz Barbeito,90,
+Kaniela Orti,1,e
+Kaniela Orti,2,b
+Kaniela Orti,3,c
+Kaniela Orti,4,e
+Kaniela Orti,5,c
+Kaniela Orti,6,e
+Kaniela Orti,7,e
+Kaniela Orti,8,c
+Kaniela Orti,9,d
+Kaniela Orti,10,e
+Kaniela Orti,11,d
+Kaniela Orti,12,b
+Kaniela Orti,13,c
+Kaniela Orti,14,e
+Kaniela Orti,15,b
+Kaniela Orti,16,a
+Kaniela Orti,17,b
+Kaniela Orti,18,c
+Kaniela Orti,19,e
+Kaniela Orti,20,a
+Kaniela Orti,21,b
+Kaniela Orti,22,d
+Kaniela Orti,23,b
+Kaniela Orti,24,a
+Kaniela Orti,25,d
+Kaniela Orti,26,e
+Kaniela Orti,27,c
+Kaniela Orti,28,b
+Kaniela Orti,29,c
+Kaniela Orti,30,c
+Kaniela Orti,31,c
+Kaniela Orti,32,e
+Kaniela Orti,33,a
+Kaniela Orti,34,b
+Kaniela Orti,35,c
+Kaniela Orti,36,c
+Kaniela Orti,37,e
+Kaniela Orti,38,d
+Kaniela Orti,39,d
+Kaniela Orti,40,d
+Kaniela Orti,41,b
+Kaniela Orti,42,d
+Kaniela Orti,43,b
+Kaniela Orti,44,a
+Kaniela Orti,45,a
+Kaniela Orti,46,b
+Kaniela Orti,47,a
+Kaniela Orti,48,c
+Kaniela Orti,49,e
+Kaniela Orti,50,a
+Kaniela Orti,51,d
+Kaniela Orti,52,a
+Kaniela Orti,53,b
+Kaniela Orti,54,d
+Kaniela Orti,55,a
+Kaniela Orti,56,c
+Kaniela Orti,57,d
+Kaniela Orti,58,a
+Kaniela Orti,59,a
+Kaniela Orti,60,d
+Kaniela Orti,61,b
+Kaniela Orti,62,a
+Kaniela Orti,63,a
+Kaniela Orti,64,a
+Kaniela Orti,65,d
+Kaniela Orti,66,d
+Kaniela Orti,67,e
+Kaniela Orti,68,e
+Kaniela Orti,69,a
+Kaniela Orti,70,e
+Kaniela Orti,71,b
+Kaniela Orti,72,e
+Kaniela Orti,73,d
+Kaniela Orti,74,c
+Kaniela Orti,75,a
+Kaniela Orti,76,e
+Kaniela Orti,77,a
+Kaniela Orti,78,a
+Kaniela Orti,79,c
+Kaniela Orti,80,b
+Kaniela Orti,81,e
+Kaniela Orti,82,c
+Kaniela Orti,83,e
+Kaniela Orti,84,c
+Kaniela Orti,85,e
+Kaniela Orti,86,d
+Kaniela Orti,87,c
+Kaniela Orti,88,b
+Kaniela Orti,89,a
+Kaniela Orti,90,c
+Manolo dos Anjos,1,e
+Manolo dos Anjos,2,b
+Manolo dos Anjos,3,c
+Manolo dos Anjos,4,c
+Manolo dos Anjos,5,a
+Manolo dos Anjos,6,e
+Manolo dos Anjos,7,d
+Manolo dos Anjos,8,b
+Manolo dos Anjos,9,d
+Manolo dos Anjos,10,b
+Manolo dos Anjos,11,d
+Manolo dos Anjos,12,b
+Manolo dos Anjos,13,b
+Manolo dos Anjos,14,e
+Manolo dos Anjos,15,b
+Manolo dos Anjos,16,d
+Manolo dos Anjos,17,b
+Manolo dos Anjos,18,b
+Manolo dos Anjos,19,a
+Manolo dos Anjos,20,e
+Manolo dos Anjos,21,a
+Manolo dos Anjos,22,c
+Manolo dos Anjos,23,d
+Manolo dos Anjos,24,e
+Manolo dos Anjos,25,d
+Manolo dos Anjos,26,b
+Manolo dos Anjos,27,c
+Manolo dos Anjos,28,a
+Manolo dos Anjos,29,e
+Manolo dos Anjos,30,c
+Manolo dos Anjos,31,e
+Manolo dos Anjos,32,c
+Manolo dos Anjos,33,d
+Manolo dos Anjos,34,d
+Manolo dos Anjos,35,d
+Manolo dos Anjos,36,c
+Manolo dos Anjos,37,d
+Manolo dos Anjos,38,e
+Manolo dos Anjos,39,d
+Manolo dos Anjos,40,b
+Manolo dos Anjos,41,d
+Manolo dos Anjos,42,d
+Manolo dos Anjos,43,b
+Manolo dos Anjos,44,b
+Manolo dos Anjos,45,a
+Manolo dos Anjos,46,b
+Manolo dos Anjos,47,a
+Manolo dos Anjos,48,c
+Manolo dos Anjos,49,b
+Manolo dos Anjos,50,e
+Manolo dos Anjos,51,d
+Manolo dos Anjos,52,a
+Manolo dos Anjos,53,d
+Manolo dos Anjos,54,e
+Manolo dos Anjos,55,a
+Manolo dos Anjos,56,c
+Manolo dos Anjos,57,a
+Manolo dos Anjos,58,c
+Manolo dos Anjos,59,b
+Manolo dos Anjos,60,d
+Manolo dos Anjos,61,b
+Manolo dos Anjos,62,b
+Manolo dos Anjos,63,a
+Manolo dos Anjos,64,d
+Manolo dos Anjos,65,b
+Manolo dos Anjos,66,e
+Manolo dos Anjos,67,c
+Manolo dos Anjos,68,c
+Manolo dos Anjos,69,e
+Manolo dos Anjos,70,e
+Manolo dos Anjos,71,b
+Manolo dos Anjos,72,d
+Manolo dos Anjos,73,c
+Manolo dos Anjos,74,d
+Manolo dos Anjos,75,d
+Manolo dos Anjos,76,a
+Manolo dos Anjos,77,b
+Manolo dos Anjos,78,a
+Manolo dos Anjos,79,c
+Manolo dos Anjos,80,b
+Manolo dos Anjos,81,c
+Manolo dos Anjos,82,c
+Manolo dos Anjos,83,c
+Manolo dos Anjos,84,a
+Manolo dos Anjos,85,c
+Manolo dos Anjos,86,a
+Manolo dos Anjos,87,c
+Manolo dos Anjos,88,a
+Manolo dos Anjos,89,a
+Manolo dos Anjos,90,d
+Menahem Goya,1,e
+Menahem Goya,2,b
+Menahem Goya,3,c
+Menahem Goya,4,a
+Menahem Goya,5,b
+Menahem Goya,6,e
+Menahem Goya,7,b
+Menahem Goya,8,d
+Menahem Goya,9,d
+Menahem Goya,10,b
+Menahem Goya,11,a
+Menahem Goya,12,a
+Menahem Goya,13,c
+Menahem Goya,14,e
+Menahem Goya,15,c
+Menahem Goya,16,d
+Menahem Goya,17,c
+Menahem Goya,18,d
+Menahem Goya,19,e
+Menahem Goya,20,c
+Menahem Goya,21,a
+Menahem Goya,22,e
+Menahem Goya,23,e
+Menahem Goya,24,c
+Menahem Goya,25,c
+Menahem Goya,26,a
+Menahem Goya,27,e
+Menahem Goya,28,a
+Menahem Goya,29,c
+Menahem Goya,30,e
+Menahem Goya,31,d
+Menahem Goya,32,d
+Menahem Goya,33,d
+Menahem Goya,34,c
+Menahem Goya,35,b
+Menahem Goya,36,a
+Menahem Goya,37,a
+Menahem Goya,38,d
+Menahem Goya,39,d
+Menahem Goya,40,a
+Menahem Goya,41,c
+Menahem Goya,42,c
+Menahem Goya,43,b
+Menahem Goya,44,c
+Menahem Goya,45,a
+Menahem Goya,46,a
+Menahem Goya,47,d
+Menahem Goya,48,c
+Menahem Goya,49,c
+Menahem Goya,50,b
+Menahem Goya,51,e
+Menahem Goya,52,d
+Menahem Goya,53,b
+Menahem Goya,54,e
+Menahem Goya,55,e
+Menahem Goya,56,a
+Menahem Goya,57,d
+Menahem Goya,58,c
+Menahem Goya,59,e
+Menahem Goya,60,c
+Menahem Goya,61,b
+Menahem Goya,62,e
+Menahem Goya,63,b
+Menahem Goya,64,c
+Menahem Goya,65,e
+Menahem Goya,66,a
+Menahem Goya,67,b
+Menahem Goya,68,d
+Menahem Goya,69,c
+Menahem Goya,70,e
+Menahem Goya,71,b
+Menahem Goya,72,a
+Menahem Goya,73,d
+Menahem Goya,74,b
+Menahem Goya,75,d
+Menahem Goya,76,a
+Menahem Goya,77,e
+Menahem Goya,78,b
+Menahem Goya,79,c
+Menahem Goya,80,a
+Menahem Goya,81,c
+Menahem Goya,82,c
+Menahem Goya,83,c
+Menahem Goya,84,d
+Menahem Goya,85,b
+Menahem Goya,86,a
+Menahem Goya,87,e
+Menahem Goya,88,b
+Menahem Goya,89,c
+Menahem Goya,90,a
+Oswaldo Lazo,1,e
+Oswaldo Lazo,2,b
+Oswaldo Lazo,3,c
+Oswaldo Lazo,4,e
+Oswaldo Lazo,5,c
+Oswaldo Lazo,6,e
+Oswaldo Lazo,7,d
+Oswaldo Lazo,8,d
+Oswaldo Lazo,9,e
+Oswaldo Lazo,10,d
+Oswaldo Lazo,11,c
+Oswaldo Lazo,12,d
+Oswaldo Lazo,13,d
+Oswaldo Lazo,14,c
+Oswaldo Lazo,15,b
+Oswaldo Lazo,16,e
+Oswaldo Lazo,17,d
+Oswaldo Lazo,18,c
+Oswaldo Lazo,19,e
+Oswaldo Lazo,20,a
+Oswaldo Lazo,21,e
+Oswaldo Lazo,22,c
+Oswaldo Lazo,23,e
+Oswaldo Lazo,24,a
+Oswaldo Lazo,25,d
+Oswaldo Lazo,26,a
+Oswaldo Lazo,27,b
+Oswaldo Lazo,28,d
+Oswaldo Lazo,29,a
+Oswaldo Lazo,30,b
+Oswaldo Lazo,31,d
+Oswaldo Lazo,32,b
+Oswaldo Lazo,33,c
+Oswaldo Lazo,34,e
+Oswaldo Lazo,35,d
+Oswaldo Lazo,36,a
+Oswaldo Lazo,37,b
+Oswaldo Lazo,38,e
+Oswaldo Lazo,39,e
+Oswaldo Lazo,40,c
+Oswaldo Lazo,41,d
+Oswaldo Lazo,42,e
+Oswaldo Lazo,43,a
+Oswaldo Lazo,44,d
+Oswaldo Lazo,45,b
+Oswaldo Lazo,46,e
+Oswaldo Lazo,47,d
+Oswaldo Lazo,48,b
+Oswaldo Lazo,49,a
+Oswaldo Lazo,50,a
+Oswaldo Lazo,51,d
+Oswaldo Lazo,52,a
+Oswaldo Lazo,53,d
+Oswaldo Lazo,54,e
+Oswaldo Lazo,55,e
+Oswaldo Lazo,56,c
+Oswaldo Lazo,57,e
+Oswaldo Lazo,58,c
+Oswaldo Lazo,59,b
+Oswaldo Lazo,60,a
+Oswaldo Lazo,61,b
+Oswaldo Lazo,62,b
+Oswaldo Lazo,63,b
+Oswaldo Lazo,64,c
+Oswaldo Lazo,65,b
+Oswaldo Lazo,66,d
+Oswaldo Lazo,67,e
+Oswaldo Lazo,68,c
+Oswaldo Lazo,69,b
+Oswaldo Lazo,70,d
+Oswaldo Lazo,71,d
+Oswaldo Lazo,72,b
+Oswaldo Lazo,73,a
+Oswaldo Lazo,74,b
+Oswaldo Lazo,75,a
+Oswaldo Lazo,76,c
+Oswaldo Lazo,77,d
+Oswaldo Lazo,78,e
+Oswaldo Lazo,79,b
+Oswaldo Lazo,80,b
+Oswaldo Lazo,81,d
+Oswaldo Lazo,82,e
+Oswaldo Lazo,83,c
+Oswaldo Lazo,84,b
+Oswaldo Lazo,85,d
+Oswaldo Lazo,86,e
+Oswaldo Lazo,87,c
+Oswaldo Lazo,88,b
+Oswaldo Lazo,89,a
+Oswaldo Lazo,90,e
+Mahara Aparisi,1,e
+Mahara Aparisi,2,c
+Mahara Aparisi,3,a
+Mahara Aparisi,4,c
+Mahara Aparisi,5,a
+Mahara Aparisi,6,e
+Mahara Aparisi,7,d
+Mahara Aparisi,8,c
+Mahara Aparisi,9,b
+Mahara Aparisi,10,e
+Mahara Aparisi,11,b
+Mahara Aparisi,12,a
+Mahara Aparisi,13,d
+Mahara Aparisi,14,e
+Mahara Aparisi,15,b
+Mahara Aparisi,16,e
+Mahara Aparisi,17,e
+Mahara Aparisi,18,b
+Mahara Aparisi,19,d
+Mahara Aparisi,20,a
+Mahara Aparisi,21,b
+Mahara Aparisi,22,e
+Mahara Aparisi,23,a
+Mahara Aparisi,24,d
+Mahara Aparisi,25,a
+Mahara Aparisi,26,a
+Mahara Aparisi,27,d
+Mahara Aparisi,28,e
+Mahara Aparisi,29,b
+Mahara Aparisi,30,c
+Mahara Aparisi,31,a
+Mahara Aparisi,32,a
+Mahara Aparisi,33,a
+Mahara Aparisi,34,c
+Mahara Aparisi,35,a
+Mahara Aparisi,36,b
+Mahara Aparisi,37,d
+Mahara Aparisi,38,c
+Mahara Aparisi,39,b
+Mahara Aparisi,40,d
+Mahara Aparisi,41,b
+Mahara Aparisi,42,c
+Mahara Aparisi,43,c
+Mahara Aparisi,44,e
+Mahara Aparisi,45,b
+Mahara Aparisi,46,b
+Mahara Aparisi,47,d
+Mahara Aparisi,48,a
+Mahara Aparisi,49,d
+Mahara Aparisi,50,c
+Mahara Aparisi,51,d
+Mahara Aparisi,52,a
+Mahara Aparisi,53,c
+Mahara Aparisi,54,a
+Mahara Aparisi,55,c
+Mahara Aparisi,56,a
+Mahara Aparisi,57,b
+Mahara Aparisi,58,d
+Mahara Aparisi,59,c
+Mahara Aparisi,60,b
+Mahara Aparisi,61,c
+Mahara Aparisi,62,d
+Mahara Aparisi,63,c
+Mahara Aparisi,64,b
+Mahara Aparisi,65,b
+Mahara Aparisi,66,c
+Mahara Aparisi,67,d
+Mahara Aparisi,68,c
+Mahara Aparisi,69,c
+Mahara Aparisi,70,c
+Mahara Aparisi,71,b
+Mahara Aparisi,72,e
+Mahara Aparisi,73,d
+Mahara Aparisi,74,c
+Mahara Aparisi,75,b
+Mahara Aparisi,76,b
+Mahara Aparisi,77,d
+Mahara Aparisi,78,d
+Mahara Aparisi,79,a
+Mahara Aparisi,80,b
+Mahara Aparisi,81,b
+Mahara Aparisi,82,b
+Mahara Aparisi,83,e
+Mahara Aparisi,84,a
+Mahara Aparisi,85,a
+Mahara Aparisi,86,c
+Mahara Aparisi,87,d
+Mahara Aparisi,88,b
+Mahara Aparisi,89,b
+Mahara Aparisi,90,b
+Jussara Guillermo,1,e
+Jussara Guillermo,2,a
+Jussara Guillermo,3,e
+Jussara Guillermo,4,c
+Jussara Guillermo,5,d
+Jussara Guillermo,6,e
+Jussara Guillermo,7,e
+Jussara Guillermo,8,d
+Jussara Guillermo,9,c
+Jussara Guillermo,10,a
+Jussara Guillermo,11,e
+Jussara Guillermo,12,a
+Jussara Guillermo,13,d
+Jussara Guillermo,14,c
+Jussara Guillermo,15,b
+Jussara Guillermo,16,a
+Jussara Guillermo,17,d
+Jussara Guillermo,18,c
+Jussara Guillermo,19,e
+Jussara Guillermo,20,d
+Jussara Guillermo,21,a
+Jussara Guillermo,22,e
+Jussara Guillermo,23,a
+Jussara Guillermo,24,d
+Jussara Guillermo,25,a
+Jussara Guillermo,26,a
+Jussara Guillermo,27,d
+Jussara Guillermo,28,c
+Jussara Guillermo,29,b
+Jussara Guillermo,30,c
+Jussara Guillermo,31,e
+Jussara Guillermo,32,a
+Jussara Guillermo,33,a
+Jussara Guillermo,34,c
+Jussara Guillermo,35,e
+Jussara Guillermo,36,c
+Jussara Guillermo,37,a
+Jussara Guillermo,38,b
+Jussara Guillermo,39,a
+Jussara Guillermo,40,a
+Jussara Guillermo,41,e
+Jussara Guillermo,42,d
+Jussara Guillermo,43,e
+Jussara Guillermo,44,a
+Jussara Guillermo,45,a
+Jussara Guillermo,46,d
+Jussara Guillermo,47,d
+Jussara Guillermo,48,d
+Jussara Guillermo,49,d
+Jussara Guillermo,50,b
+Jussara Guillermo,51,d
+Jussara Guillermo,52,a
+Jussara Guillermo,53,a
+Jussara Guillermo,54,d
+Jussara Guillermo,55,d
+Jussara Guillermo,56,d
+Jussara Guillermo,57,e
+Jussara Guillermo,58,c
+Jussara Guillermo,59,a
+Jussara Guillermo,60,a
+Jussara Guillermo,61,b
+Jussara Guillermo,62,c
+Jussara Guillermo,63,a
+Jussara Guillermo,64,b
+Jussara Guillermo,65,c
+Jussara Guillermo,66,d
+Jussara Guillermo,67,b
+Jussara Guillermo,68,a
+Jussara Guillermo,69,a
+Jussara Guillermo,70,d
+Jussara Guillermo,71,a
+Jussara Guillermo,72,d
+Jussara Guillermo,73,b
+Jussara Guillermo,74,d
+Jussara Guillermo,75,e
+Jussara Guillermo,76,b
+Jussara Guillermo,77,e
+Jussara Guillermo,78,a
+Jussara Guillermo,79,b
+Jussara Guillermo,80,b
+Jussara Guillermo,81,e
+Jussara Guillermo,82,b
+Jussara Guillermo,83,e
+Jussara Guillermo,84,c
+Jussara Guillermo,85,c
+Jussara Guillermo,86,a
+Jussara Guillermo,87,c
+Jussara Guillermo,88,b
+Jussara Guillermo,89,d
+Jussara Guillermo,90,d
+Laurel De La Paz,1,e
+Laurel De La Paz,2,b
+Laurel De La Paz,3,b
+Laurel De La Paz,4,c
+Laurel De La Paz,5,a
+Laurel De La Paz,6,b
+Laurel De La Paz,7,a
+Laurel De La Paz,8,e
+Laurel De La Paz,9,e
+Laurel De La Paz,10,b
+Laurel De La Paz,11,d
+Laurel De La Paz,12,a
+Laurel De La Paz,13,c
+Laurel De La Paz,14,e
+Laurel De La Paz,15,d
+Laurel De La Paz,16,e
+Laurel De La Paz,17,b
+Laurel De La Paz,18,b
+Laurel De La Paz,19,c
+Laurel De La Paz,20,d
+Laurel De La Paz,21,b
+Laurel De La Paz,22,d
+Laurel De La Paz,23,c
+Laurel De La Paz,24,c
+Laurel De La Paz,25,d
+Laurel De La Paz,26,e
+Laurel De La Paz,27,d
+Laurel De La Paz,28,c
+Laurel De La Paz,29,d
+Laurel De La Paz,30,c
+Laurel De La Paz,31,e
+Laurel De La Paz,32,e
+Laurel De La Paz,33,d
+Laurel De La Paz,34,d
+Laurel De La Paz,35,c
+Laurel De La Paz,36,b
+Laurel De La Paz,37,d
+Laurel De La Paz,38,a
+Laurel De La Paz,39,c
+Laurel De La Paz,40,e
+Laurel De La Paz,41,e
+Laurel De La Paz,42,c
+Laurel De La Paz,43,b
+Laurel De La Paz,44,a
+Laurel De La Paz,45,d
+Laurel De La Paz,46,d
+Laurel De La Paz,47,d
+Laurel De La Paz,48,a
+Laurel De La Paz,49,c
+Laurel De La Paz,50,b
+Laurel De La Paz,51,e
+Laurel De La Paz,52,a
+Laurel De La Paz,53,a
+Laurel De La Paz,54,e
+Laurel De La Paz,55,e
+Laurel De La Paz,56,d
+Laurel De La Paz,57,b
+Laurel De La Paz,58,c
+Laurel De La Paz,59,b
+Laurel De La Paz,60,b
+Laurel De La Paz,61,b
+Laurel De La Paz,62,d
+Laurel De La Paz,63,d
+Laurel De La Paz,64,c
+Laurel De La Paz,65,d
+Laurel De La Paz,66,b
+Laurel De La Paz,67,b
+Laurel De La Paz,68,c
+Laurel De La Paz,69,e
+Laurel De La Paz,70,b
+Laurel De La Paz,71,e
+Laurel De La Paz,72,e
+Laurel De La Paz,73,c
+Laurel De La Paz,74,d
+Laurel De La Paz,75,e
+Laurel De La Paz,76,b
+Laurel De La Paz,77,c
+Laurel De La Paz,78,a
+Laurel De La Paz,79,c
+Laurel De La Paz,80,b
+Laurel De La Paz,81,c
+Laurel De La Paz,82,b
+Laurel De La Paz,83,c
+Laurel De La Paz,84,c
+Laurel De La Paz,85,d
+Laurel De La Paz,86,c
+Laurel De La Paz,87,e
+Laurel De La Paz,88,a
+Laurel De La Paz,89,a
+Laurel De La Paz,90,d
+Marco Vallina,1,e
+Marco Vallina,2,b
+Marco Vallina,3,c
+Marco Vallina,4,a
+Marco Vallina,5,b
+Marco Vallina,6,d
+Marco Vallina,7,b
+Marco Vallina,8,e
+Marco Vallina,9,c
+Marco Vallina,10,c
+Marco Vallina,11,d
+Marco Vallina,12,b
+Marco Vallina,13,b
+Marco Vallina,14,e
+Marco Vallina,15,c
+Marco Vallina,16,b
+Marco Vallina,17,b
+Marco Vallina,18,d
+Marco Vallina,19,b
+Marco Vallina,20,d
+Marco Vallina,21,b
+Marco Vallina,22,c
+Marco Vallina,23,d
+Marco Vallina,24,c
+Marco Vallina,25,e
+Marco Vallina,26,c
+Marco Vallina,27,c
+Marco Vallina,28,e
+Marco Vallina,29,b
+Marco Vallina,30,b
+Marco Vallina,31,a
+Marco Vallina,32,d
+Marco Vallina,33,c
+Marco Vallina,34,d
+Marco Vallina,35,a
+Marco Vallina,36,a
+Marco Vallina,37,d
+Marco Vallina,38,b
+Marco Vallina,39,b
+Marco Vallina,40,c
+Marco Vallina,41,d
+Marco Vallina,42,a
+Marco Vallina,43,c
+Marco Vallina,44,b
+Marco Vallina,45,a
+Marco Vallina,46,e
+Marco Vallina,47,d
+Marco Vallina,48,b
+Marco Vallina,49,e
+Marco Vallina,50,a
+Marco Vallina,51,c
+Marco Vallina,52,a
+Marco Vallina,53,a
+Marco Vallina,54,e
+Marco Vallina,55,d
+Marco Vallina,56,a
+Marco Vallina,57,d
+Marco Vallina,58,c
+Marco Vallina,59,a
+Marco Vallina,60,b
+Marco Vallina,61,b
+Marco Vallina,62,b
+Marco Vallina,63,e
+Marco Vallina,64,c
+Marco Vallina,65,d
+Marco Vallina,66,c
+Marco Vallina,67,b
+Marco Vallina,68,c
+Marco Vallina,69,e
+Marco Vallina,70,b
+Marco Vallina,71,d
+Marco Vallina,72,d
+Marco Vallina,73,b
+Marco Vallina,74,c
+Marco Vallina,75,e
+Marco Vallina,76,d
+Marco Vallina,77,d
+Marco Vallina,78,a
+Marco Vallina,79,c
+Marco Vallina,80,d
+Marco Vallina,81,c
+Marco Vallina,82,c
+Marco Vallina,83,c
+Marco Vallina,84,c
+Marco Vallina,85,c
+Marco Vallina,86,c
+Marco Vallina,87,d
+Marco Vallina,88,e
+Marco Vallina,89,b
+Marco Vallina,90,a
+Rodger Pancorbo,1,e
+Rodger Pancorbo,2,b
+Rodger Pancorbo,3,a
+Rodger Pancorbo,4,c
+Rodger Pancorbo,5,c
+Rodger Pancorbo,6,d
+Rodger Pancorbo,7,b
+Rodger Pancorbo,8,c
+Rodger Pancorbo,9,e
+Rodger Pancorbo,10,b
+Rodger Pancorbo,11,d
+Rodger Pancorbo,12,a
+Rodger Pancorbo,13,d
+Rodger Pancorbo,14,e
+Rodger Pancorbo,15,b
+Rodger Pancorbo,16,a
+Rodger Pancorbo,17,e
+Rodger Pancorbo,18,d
+Rodger Pancorbo,19,b
+Rodger Pancorbo,20,e
+Rodger Pancorbo,21,a
+Rodger Pancorbo,22,e
+Rodger Pancorbo,23,d
+Rodger Pancorbo,24,e
+Rodger Pancorbo,25,d
+Rodger Pancorbo,26,a
+Rodger Pancorbo,27,d
+Rodger Pancorbo,28,a
+Rodger Pancorbo,29,d
+Rodger Pancorbo,30,b
+Rodger Pancorbo,31,a
+Rodger Pancorbo,32,d
+Rodger Pancorbo,33,a
+Rodger Pancorbo,34,c
+Rodger Pancorbo,35,b
+Rodger Pancorbo,36,b
+Rodger Pancorbo,37,b
+Rodger Pancorbo,38,b
+Rodger Pancorbo,39,a
+Rodger Pancorbo,40,b
+Rodger Pancorbo,41,a
+Rodger Pancorbo,42,b
+Rodger Pancorbo,43,b
+Rodger Pancorbo,44,b
+Rodger Pancorbo,45,e
+Rodger Pancorbo,46,d
+Rodger Pancorbo,47,e
+Rodger Pancorbo,48,c
+Rodger Pancorbo,49,b
+Rodger Pancorbo,50,e
+Rodger Pancorbo,51,d
+Rodger Pancorbo,52,a
+Rodger Pancorbo,53,b
+Rodger Pancorbo,54,e
+Rodger Pancorbo,55,d
+Rodger Pancorbo,56,c
+Rodger Pancorbo,57,d
+Rodger Pancorbo,58,b
+Rodger Pancorbo,59,b
+Rodger Pancorbo,60,d
+Rodger Pancorbo,61,b
+Rodger Pancorbo,62,a
+Rodger Pancorbo,63,a
+Rodger Pancorbo,64,b
+Rodger Pancorbo,65,d
+Rodger Pancorbo,66,c
+Rodger Pancorbo,67,b
+Rodger Pancorbo,68,b
+Rodger Pancorbo,69,d
+Rodger Pancorbo,70,b
+Rodger Pancorbo,71,a
+Rodger Pancorbo,72,e
+Rodger Pancorbo,73,b
+Rodger Pancorbo,74,a
+Rodger Pancorbo,75,a
+Rodger Pancorbo,76,a
+Rodger Pancorbo,77,a
+Rodger Pancorbo,78,e
+Rodger Pancorbo,79,a
+Rodger Pancorbo,80,b
+Rodger Pancorbo,81,b
+Rodger Pancorbo,82,c
+Rodger Pancorbo,83,c
+Rodger Pancorbo,84,a
+Rodger Pancorbo,85,c
+Rodger Pancorbo,86,a
+Rodger Pancorbo,87,a
+Rodger Pancorbo,88,c
+Rodger Pancorbo,89,a
+Rodger Pancorbo,90,a
+Micael Barreira,1,
+Micael Barreira,2,
+Micael Barreira,3,
+Micael Barreira,4,
+Micael Barreira,5,
+Micael Barreira,6,
+Micael Barreira,7,
+Micael Barreira,8,
+Micael Barreira,9,
+Micael Barreira,10,
+Micael Barreira,11,
+Micael Barreira,12,
+Micael Barreira,13,
+Micael Barreira,14,
+Micael Barreira,15,
+Micael Barreira,16,
+Micael Barreira,17,
+Micael Barreira,18,
+Micael Barreira,19,
+Micael Barreira,20,
+Micael Barreira,21,
+Micael Barreira,22,
+Micael Barreira,23,
+Micael Barreira,24,
+Micael Barreira,25,
+Micael Barreira,26,
+Micael Barreira,27,
+Micael Barreira,28,
+Micael Barreira,29,
+Micael Barreira,30,
+Micael Barreira,31,
+Micael Barreira,32,
+Micael Barreira,33,
+Micael Barreira,34,
+Micael Barreira,35,
+Micael Barreira,36,
+Micael Barreira,37,
+Micael Barreira,38,
+Micael Barreira,39,
+Micael Barreira,40,
+Micael Barreira,41,
+Micael Barreira,42,
+Micael Barreira,43,
+Micael Barreira,44,
+Micael Barreira,45,
+Micael Barreira,46,
+Micael Barreira,47,
+Micael Barreira,48,
+Micael Barreira,49,
+Micael Barreira,50,
+Micael Barreira,51,
+Micael Barreira,52,
+Micael Barreira,53,
+Micael Barreira,54,
+Micael Barreira,55,
+Micael Barreira,56,
+Micael Barreira,57,
+Micael Barreira,58,
+Micael Barreira,59,
+Micael Barreira,60,
+Micael Barreira,61,
+Micael Barreira,62,
+Micael Barreira,63,
+Micael Barreira,64,
+Micael Barreira,65,
+Micael Barreira,66,
+Micael Barreira,67,
+Micael Barreira,68,
+Micael Barreira,69,
+Micael Barreira,70,
+Micael Barreira,71,
+Micael Barreira,72,
+Micael Barreira,73,
+Micael Barreira,74,
+Micael Barreira,75,
+Micael Barreira,76,
+Micael Barreira,77,
+Micael Barreira,78,
+Micael Barreira,79,
+Micael Barreira,80,
+Micael Barreira,81,
+Micael Barreira,82,
+Micael Barreira,83,
+Micael Barreira,84,
+Micael Barreira,85,
+Micael Barreira,86,
+Micael Barreira,87,
+Micael Barreira,88,
+Micael Barreira,89,
+Micael Barreira,90,
+dexter,1,e
+dexter,2,b
+dexter,3,a
+dexter,4,c
+dexter,5,d
+dexter,6,d
+dexter,7,b
+dexter,8,c
+dexter,9,b
+dexter,10,b
+dexter,11,d
+dexter,12,e
+dexter,13,c
+dexter,14,c
+dexter,15,c
+dexter,16,a
+dexter,17,e
+dexter,18,d
+dexter,19,e
+dexter,20,b
+dexter,21,b
+dexter,22,b
+dexter,23,d
+dexter,24,c
+dexter,25,a
+dexter,26,d
+dexter,27,c
+dexter,28,e
+dexter,29,d
+dexter,30,a
+dexter,31,c
+dexter,32,c
+dexter,33,b
+dexter,34,a
+dexter,35,b
+dexter,36,c
+dexter,37,b
+dexter,38,c
+dexter,39,a
+dexter,40,e
+dexter,41,d
+dexter,42,d
+dexter,43,b
+dexter,44,a
+dexter,45,c
+dexter,46,a
+dexter,47,d
+dexter,48,b
+dexter,49,c
+dexter,50,b
+dexter,51,e
+dexter,52,a
+dexter,53,c
+dexter,54,b
+dexter,55,a
+dexter,56,c
+dexter,57,d
+dexter,58,c
+dexter,59,d
+dexter,60,a
+dexter,61,b
+dexter,62,a
+dexter,63,b
+dexter,64,e
+dexter,65,b
+dexter,66,b
+dexter,67,b
+dexter,68,e
+dexter,69,b
+dexter,70,d
+dexter,71,a
+dexter,72,e
+dexter,73,c
+dexter,74,d
+dexter,75,b
+dexter,76,a
+dexter,77,c
+dexter,78,b
+dexter,79,e
+dexter,80,b
+dexter,81,c
+dexter,82,a
+dexter,83,b
+dexter,84,b
+dexter,85,e
+dexter,86,a
+dexter,87,d
+dexter,88,c
+dexter,89,a
+dexter,90,c
+Franklin Barquero,1,e
+Franklin Barquero,2,d
+Franklin Barquero,3,c
+Franklin Barquero,4,a
+Franklin Barquero,5,d
+Franklin Barquero,6,d
+Franklin Barquero,7,b
+Franklin Barquero,8,d
+Franklin Barquero,9,b
+Franklin Barquero,10,a
+Franklin Barquero,11,d
+Franklin Barquero,12,a
+Franklin Barquero,13,c
+Franklin Barquero,14,e
+Franklin Barquero,15,b
+Franklin Barquero,16,a
+Franklin Barquero,17,a
+Franklin Barquero,18,d
+Franklin Barquero,19,e
+Franklin Barquero,20,d
+Franklin Barquero,21,a
+Franklin Barquero,22,b
+Franklin Barquero,23,d
+Franklin Barquero,24,c
+Franklin Barquero,25,d
+Franklin Barquero,26,e
+Franklin Barquero,27,e
+Franklin Barquero,28,a
+Franklin Barquero,29,d
+Franklin Barquero,30,c
+Franklin Barquero,31,b
+Franklin Barquero,32,a
+Franklin Barquero,33,b
+Franklin Barquero,34,c
+Franklin Barquero,35,d
+Franklin Barquero,36,a
+Franklin Barquero,37,b
+Franklin Barquero,38,d
+Franklin Barquero,39,b
+Franklin Barquero,40,a
+Franklin Barquero,41,b
+Franklin Barquero,42,a
+Franklin Barquero,43,c
+Franklin Barquero,44,b
+Franklin Barquero,45,a
+Franklin Barquero,46,d
+Franklin Barquero,47,c
+Franklin Barquero,48,b
+Franklin Barquero,49,a
+Franklin Barquero,50,a
+Franklin Barquero,51,e
+Franklin Barquero,52,a
+Franklin Barquero,53,a
+Franklin Barquero,54,d
+Franklin Barquero,55,b
+Franklin Barquero,56,e
+Franklin Barquero,57,a
+Franklin Barquero,58,c
+Franklin Barquero,59,b
+Franklin Barquero,60,b
+Franklin Barquero,61,c
+Franklin Barquero,62,a
+Franklin Barquero,63,a
+Franklin Barquero,64,e
+Franklin Barquero,65,d
+Franklin Barquero,66,b
+Franklin Barquero,67,b
+Franklin Barquero,68,c
+Franklin Barquero,69,a
+Franklin Barquero,70,b
+Franklin Barquero,71,d
+Franklin Barquero,72,b
+Franklin Barquero,73,b
+Franklin Barquero,74,a
+Franklin Barquero,75,e
+Franklin Barquero,76,a
+Franklin Barquero,77,d
+Franklin Barquero,78,b
+Franklin Barquero,79,b
+Franklin Barquero,80,b
+Franklin Barquero,81,a
+Franklin Barquero,82,c
+Franklin Barquero,83,d
+Franklin Barquero,84,c
+Franklin Barquero,85,c
+Franklin Barquero,86,d
+Franklin Barquero,87,b
+Franklin Barquero,88,c
+Franklin Barquero,89,a
+Franklin Barquero,90,b
+Raphael Baca,1,e
+Raphael Baca,2,b
+Raphael Baca,3,c
+Raphael Baca,4,c
+Raphael Baca,5,c
+Raphael Baca,6,d
+Raphael Baca,7,b
+Raphael Baca,8,b
+Raphael Baca,9,e
+Raphael Baca,10,b
+Raphael Baca,11,d
+Raphael Baca,12,a
+Raphael Baca,13,d
+Raphael Baca,14,d
+Raphael Baca,15,d
+Raphael Baca,16,e
+Raphael Baca,17,a
+Raphael Baca,18,a
+Raphael Baca,19,c
+Raphael Baca,20,d
+Raphael Baca,21,e
+Raphael Baca,22,e
+Raphael Baca,23,b
+Raphael Baca,24,b
+Raphael Baca,25,e
+Raphael Baca,26,b
+Raphael Baca,27,e
+Raphael Baca,28,d
+Raphael Baca,29,a
+Raphael Baca,30,b
+Raphael Baca,31,d
+Raphael Baca,32,d
+Raphael Baca,33,b
+Raphael Baca,34,d
+Raphael Baca,35,b
+Raphael Baca,36,e
+Raphael Baca,37,a
+Raphael Baca,38,b
+Raphael Baca,39,c
+Raphael Baca,40,e
+Raphael Baca,41,b
+Raphael Baca,42,d
+Raphael Baca,43,b
+Raphael Baca,44,e
+Raphael Baca,45,c
+Raphael Baca,46,b
+Raphael Baca,47,d
+Raphael Baca,48,c
+Raphael Baca,49,b
+Raphael Baca,50,e
+Raphael Baca,51,e
+Raphael Baca,52,a
+Raphael Baca,53,c
+Raphael Baca,54,d
+Raphael Baca,55,a
+Raphael Baca,56,e
+Raphael Baca,57,a
+Raphael Baca,58,d
+Raphael Baca,59,e
+Raphael Baca,60,d
+Raphael Baca,61,d
+Raphael Baca,62,a
+Raphael Baca,63,a
+Raphael Baca,64,d
+Raphael Baca,65,c
+Raphael Baca,66,e
+Raphael Baca,67,d
+Raphael Baca,68,b
+Raphael Baca,69,c
+Raphael Baca,70,e
+Raphael Baca,71,b
+Raphael Baca,72,d
+Raphael Baca,73,e
+Raphael Baca,74,c
+Raphael Baca,75,c
+Raphael Baca,76,a
+Raphael Baca,77,a
+Raphael Baca,78,a
+Raphael Baca,79,d
+Raphael Baca,80,a
+Raphael Baca,81,a
+Raphael Baca,82,a
+Raphael Baca,83,c
+Raphael Baca,84,d
+Raphael Baca,85,b
+Raphael Baca,86,a
+Raphael Baca,87,c
+Raphael Baca,88,b
+Raphael Baca,89,e
+Raphael Baca,90,b
+Ikepela Teixidor,1,e
+Ikepela Teixidor,2,b
+Ikepela Teixidor,3,c
+Ikepela Teixidor,4,a
+Ikepela Teixidor,5,
+Ikepela Teixidor,6,e
+Ikepela Teixidor,7,b
+Ikepela Teixidor,8,c
+Ikepela Teixidor,9,
+Ikepela Teixidor,10,a
+Ikepela Teixidor,11,d
+Ikepela Teixidor,12,
+Ikepela Teixidor,13,
+Ikepela Teixidor,14,
+Ikepela Teixidor,15,
+Ikepela Teixidor,16,
+Ikepela Teixidor,17,
+Ikepela Teixidor,18,a
+Ikepela Teixidor,19,a
+Ikepela Teixidor,20,e
+Ikepela Teixidor,21,
+Ikepela Teixidor,22,c
+Ikepela Teixidor,23,
+Ikepela Teixidor,24,
+Ikepela Teixidor,25,
+Ikepela Teixidor,26,
+Ikepela Teixidor,27,
+Ikepela Teixidor,28,
+Ikepela Teixidor,29,
+Ikepela Teixidor,30,
+Ikepela Teixidor,31,
+Ikepela Teixidor,32,c
+Ikepela Teixidor,33,
+Ikepela Teixidor,34,
+Ikepela Teixidor,35,
+Ikepela Teixidor,36,
+Ikepela Teixidor,37,
+Ikepela Teixidor,38,
+Ikepela Teixidor,39,
+Ikepela Teixidor,40,
+Ikepela Teixidor,41,
+Ikepela Teixidor,42,
+Ikepela Teixidor,43,
+Ikepela Teixidor,44,
+Ikepela Teixidor,45,
+Ikepela Teixidor,46,b
+Ikepela Teixidor,47,d
+Ikepela Teixidor,48,b
+Ikepela Teixidor,49,
+Ikepela Teixidor,50,b
+Ikepela Teixidor,51,d
+Ikepela Teixidor,52,a
+Ikepela Teixidor,53,
+Ikepela Teixidor,54,a
+Ikepela Teixidor,55,d
+Ikepela Teixidor,56,
+Ikepela Teixidor,57,d
+Ikepela Teixidor,58,e
+Ikepela Teixidor,59,
+Ikepela Teixidor,60,
+Ikepela Teixidor,61,
+Ikepela Teixidor,62,
+Ikepela Teixidor,63,
+Ikepela Teixidor,64,
+Ikepela Teixidor,65,
+Ikepela Teixidor,66,
+Ikepela Teixidor,67,
+Ikepela Teixidor,68,
+Ikepela Teixidor,69,
+Ikepela Teixidor,70,
+Ikepela Teixidor,71,
+Ikepela Teixidor,72,
+Ikepela Teixidor,73,
+Ikepela Teixidor,74,
+Ikepela Teixidor,75,
+Ikepela Teixidor,76,
+Ikepela Teixidor,77,
+Ikepela Teixidor,78,
+Ikepela Teixidor,79,
+Ikepela Teixidor,80,a
+Ikepela Teixidor,81,c
+Ikepela Teixidor,82,
+Ikepela Teixidor,83,c
+Ikepela Teixidor,84,
+Ikepela Teixidor,85,
+Ikepela Teixidor,86,
+Ikepela Teixidor,87,
+Ikepela Teixidor,88,
+Ikepela Teixidor,89,b
+Ikepela Teixidor,90,
+Tabata Badiola,1,e
+Tabata Badiola,2,c
+Tabata Badiola,3,d
+Tabata Badiola,4,c
+Tabata Badiola,5,c
+Tabata Badiola,6,e
+Tabata Badiola,7,d
+Tabata Badiola,8,c
+Tabata Badiola,9,a
+Tabata Badiola,10,a
+Tabata Badiola,11,d
+Tabata Badiola,12,e
+Tabata Badiola,13,e
+Tabata Badiola,14,e
+Tabata Badiola,15,b
+Tabata Badiola,16,a
+Tabata Badiola,17,e
+Tabata Badiola,18,d
+Tabata Badiola,19,a
+Tabata Badiola,20,e
+Tabata Badiola,21,a
+Tabata Badiola,22,c
+Tabata Badiola,23,d
+Tabata Badiola,24,b
+Tabata Badiola,25,d
+Tabata Badiola,26,a
+Tabata Badiola,27,e
+Tabata Badiola,28,e
+Tabata Badiola,29,d
+Tabata Badiola,30,a
+Tabata Badiola,31,a
+Tabata Badiola,32,a
+Tabata Badiola,33,d
+Tabata Badiola,34,b
+Tabata Badiola,35,d
+Tabata Badiola,36,d
+Tabata Badiola,37,e
+Tabata Badiola,38,b
+Tabata Badiola,39,c
+Tabata Badiola,40,e
+Tabata Badiola,41,b
+Tabata Badiola,42,d
+Tabata Badiola,43,b
+Tabata Badiola,44,e
+Tabata Badiola,45,b
+Tabata Badiola,46,a
+Tabata Badiola,47,a
+Tabata Badiola,48,b
+Tabata Badiola,49,b
+Tabata Badiola,50,a
+Tabata Badiola,51,d
+Tabata Badiola,52,a
+Tabata Badiola,53,a
+Tabata Badiola,54,a
+Tabata Badiola,55,c
+Tabata Badiola,56,b
+Tabata Badiola,57,b
+Tabata Badiola,58,b
+Tabata Badiola,59,b
+Tabata Badiola,60,d
+Tabata Badiola,61,d
+Tabata Badiola,62,e
+Tabata Badiola,63,b
+Tabata Badiola,64,d
+Tabata Badiola,65,c
+Tabata Badiola,66,d
+Tabata Badiola,67,b
+Tabata Badiola,68,e
+Tabata Badiola,69,c
+Tabata Badiola,70,d
+Tabata Badiola,71,a
+Tabata Badiola,72,d
+Tabata Badiola,73,c
+Tabata Badiola,74,b
+Tabata Badiola,75,b
+Tabata Badiola,76,e
+Tabata Badiola,77,c
+Tabata Badiola,78,e
+Tabata Badiola,79,d
+Tabata Badiola,80,d
+Tabata Badiola,81,b
+Tabata Badiola,82,d
+Tabata Badiola,83,c
+Tabata Badiola,84,a
+Tabata Badiola,85,a
+Tabata Badiola,86,a
+Tabata Badiola,87,b
+Tabata Badiola,88,c
+Tabata Badiola,89,a
+Tabata Badiola,90,a
+Yakecan Merlos,1,e
+Yakecan Merlos,2,c
+Yakecan Merlos,3,d
+Yakecan Merlos,4,c
+Yakecan Merlos,5,d
+Yakecan Merlos,6,e
+Yakecan Merlos,7,d
+Yakecan Merlos,8,b
+Yakecan Merlos,9,d
+Yakecan Merlos,10,a
+Yakecan Merlos,11,a
+Yakecan Merlos,12,a
+Yakecan Merlos,13,c
+Yakecan Merlos,14,e
+Yakecan Merlos,15,b
+Yakecan Merlos,16,a
+Yakecan Merlos,17,b
+Yakecan Merlos,18,c
+Yakecan Merlos,19,b
+Yakecan Merlos,20,e
+Yakecan Merlos,21,b
+Yakecan Merlos,22,b
+Yakecan Merlos,23,e
+Yakecan Merlos,24,c
+Yakecan Merlos,25,d
+Yakecan Merlos,26,e
+Yakecan Merlos,27,d
+Yakecan Merlos,28,a
+Yakecan Merlos,29,e
+Yakecan Merlos,30,b
+Yakecan Merlos,31,a
+Yakecan Merlos,32,e
+Yakecan Merlos,33,c
+Yakecan Merlos,34,a
+Yakecan Merlos,35,a
+Yakecan Merlos,36,c
+Yakecan Merlos,37,b
+Yakecan Merlos,38,c
+Yakecan Merlos,39,b
+Yakecan Merlos,40,e
+Yakecan Merlos,41,e
+Yakecan Merlos,42,d
+Yakecan Merlos,43,b
+Yakecan Merlos,44,a
+Yakecan Merlos,45,b
+Yakecan Merlos,46,a
+Yakecan Merlos,47,c
+Yakecan Merlos,48,b
+Yakecan Merlos,49,d
+Yakecan Merlos,50,c
+Yakecan Merlos,51,d
+Yakecan Merlos,52,b
+Yakecan Merlos,53,e
+Yakecan Merlos,54,e
+Yakecan Merlos,55,a
+Yakecan Merlos,56,c
+Yakecan Merlos,57,a
+Yakecan Merlos,58,c
+Yakecan Merlos,59,a
+Yakecan Merlos,60,d
+Yakecan Merlos,61,d
+Yakecan Merlos,62,e
+Yakecan Merlos,63,a
+Yakecan Merlos,64,b
+Yakecan Merlos,65,d
+Yakecan Merlos,66,b
+Yakecan Merlos,67,d
+Yakecan Merlos,68,b
+Yakecan Merlos,69,a
+Yakecan Merlos,70,b
+Yakecan Merlos,71,a
+Yakecan Merlos,72,d
+Yakecan Merlos,73,b
+Yakecan Merlos,74,c
+Yakecan Merlos,75,d
+Yakecan Merlos,76,b
+Yakecan Merlos,77,a
+Yakecan Merlos,78,b
+Yakecan Merlos,79,d
+Yakecan Merlos,80,b
+Yakecan Merlos,81,c
+Yakecan Merlos,82,b
+Yakecan Merlos,83,c
+Yakecan Merlos,84,d
+Yakecan Merlos,85,c
+Yakecan Merlos,86,a
+Yakecan Merlos,87,c
+Yakecan Merlos,88,c
+Yakecan Merlos,89,b
+Yakecan Merlos,90,a
+Ibiacu Cordova,1,
+Ibiacu Cordova,2,
+Ibiacu Cordova,3,
+Ibiacu Cordova,4,c
+Ibiacu Cordova,5,
+Ibiacu Cordova,6,e
+Ibiacu Cordova,7,b
+Ibiacu Cordova,8,
+Ibiacu Cordova,9,
+Ibiacu Cordova,10,d
+Ibiacu Cordova,11,
+Ibiacu Cordova,12,
+Ibiacu Cordova,13,d
+Ibiacu Cordova,14,e
+Ibiacu Cordova,15,d
+Ibiacu Cordova,16,d
+Ibiacu Cordova,17,b
+Ibiacu Cordova,18,
+Ibiacu Cordova,19,
+Ibiacu Cordova,20,
+Ibiacu Cordova,21,
+Ibiacu Cordova,22,
+Ibiacu Cordova,23,
+Ibiacu Cordova,24,
+Ibiacu Cordova,25,d
+Ibiacu Cordova,26,
+Ibiacu Cordova,27,
+Ibiacu Cordova,28,
+Ibiacu Cordova,29,
+Ibiacu Cordova,30,
+Ibiacu Cordova,31,
+Ibiacu Cordova,32,a
+Ibiacu Cordova,33,d
+Ibiacu Cordova,34,
+Ibiacu Cordova,35,
+Ibiacu Cordova,36,
+Ibiacu Cordova,37,
+Ibiacu Cordova,38,
+Ibiacu Cordova,39,
+Ibiacu Cordova,40,
+Ibiacu Cordova,41,
+Ibiacu Cordova,42,
+Ibiacu Cordova,43,b
+Ibiacu Cordova,44,
+Ibiacu Cordova,45,
+Ibiacu Cordova,46,a
+Ibiacu Cordova,47,
+Ibiacu Cordova,48,c
+Ibiacu Cordova,49,
+Ibiacu Cordova,50,
+Ibiacu Cordova,51,d
+Ibiacu Cordova,52,a
+Ibiacu Cordova,53,d
+Ibiacu Cordova,54,
+Ibiacu Cordova,55,e
+Ibiacu Cordova,56,
+Ibiacu Cordova,57,d
+Ibiacu Cordova,58,b
+Ibiacu Cordova,59,
+Ibiacu Cordova,60,
+Ibiacu Cordova,61,
+Ibiacu Cordova,62,
+Ibiacu Cordova,63,
+Ibiacu Cordova,64,
+Ibiacu Cordova,65,
+Ibiacu Cordova,66,
+Ibiacu Cordova,67,
+Ibiacu Cordova,68,b
+Ibiacu Cordova,69,
+Ibiacu Cordova,70,
+Ibiacu Cordova,71,
+Ibiacu Cordova,72,
+Ibiacu Cordova,73,
+Ibiacu Cordova,74,
+Ibiacu Cordova,75,c
+Ibiacu Cordova,76,
+Ibiacu Cordova,77,
+Ibiacu Cordova,78,
+Ibiacu Cordova,79,
+Ibiacu Cordova,80,
+Ibiacu Cordova,81,
+Ibiacu Cordova,82,
+Ibiacu Cordova,83,c
+Ibiacu Cordova,84,
+Ibiacu Cordova,85,
+Ibiacu Cordova,86,
+Ibiacu Cordova,87,
+Ibiacu Cordova,88,
+Ibiacu Cordova,89,a
+Ibiacu Cordova,90,a
+Eliasoe Aguera,1,
+Eliasoe Aguera,2,
+Eliasoe Aguera,3,
+Eliasoe Aguera,4,
+Eliasoe Aguera,5,
+Eliasoe Aguera,6,
+Eliasoe Aguera,7,
+Eliasoe Aguera,8,
+Eliasoe Aguera,9,
+Eliasoe Aguera,10,
+Eliasoe Aguera,11,
+Eliasoe Aguera,12,
+Eliasoe Aguera,13,
+Eliasoe Aguera,14,
+Eliasoe Aguera,15,
+Eliasoe Aguera,16,
+Eliasoe Aguera,17,
+Eliasoe Aguera,18,
+Eliasoe Aguera,19,
+Eliasoe Aguera,20,
+Eliasoe Aguera,21,
+Eliasoe Aguera,22,
+Eliasoe Aguera,23,
+Eliasoe Aguera,24,
+Eliasoe Aguera,25,
+Eliasoe Aguera,26,
+Eliasoe Aguera,27,
+Eliasoe Aguera,28,
+Eliasoe Aguera,29,
+Eliasoe Aguera,30,
+Eliasoe Aguera,31,
+Eliasoe Aguera,32,
+Eliasoe Aguera,33,
+Eliasoe Aguera,34,
+Eliasoe Aguera,35,
+Eliasoe Aguera,36,
+Eliasoe Aguera,37,
+Eliasoe Aguera,38,
+Eliasoe Aguera,39,
+Eliasoe Aguera,40,
+Eliasoe Aguera,41,
+Eliasoe Aguera,42,
+Eliasoe Aguera,43,
+Eliasoe Aguera,44,
+Eliasoe Aguera,45,
+Eliasoe Aguera,46,
+Eliasoe Aguera,47,
+Eliasoe Aguera,48,
+Eliasoe Aguera,49,
+Eliasoe Aguera,50,
+Eliasoe Aguera,51,
+Eliasoe Aguera,52,
+Eliasoe Aguera,53,
+Eliasoe Aguera,54,
+Eliasoe Aguera,55,
+Eliasoe Aguera,56,
+Eliasoe Aguera,57,
+Eliasoe Aguera,58,
+Eliasoe Aguera,59,
+Eliasoe Aguera,60,
+Eliasoe Aguera,61,
+Eliasoe Aguera,62,
+Eliasoe Aguera,63,
+Eliasoe Aguera,64,
+Eliasoe Aguera,65,
+Eliasoe Aguera,66,
+Eliasoe Aguera,67,
+Eliasoe Aguera,68,
+Eliasoe Aguera,69,
+Eliasoe Aguera,70,
+Eliasoe Aguera,71,
+Eliasoe Aguera,72,
+Eliasoe Aguera,73,
+Eliasoe Aguera,74,
+Eliasoe Aguera,75,
+Eliasoe Aguera,76,
+Eliasoe Aguera,77,
+Eliasoe Aguera,78,
+Eliasoe Aguera,79,
+Eliasoe Aguera,80,
+Eliasoe Aguera,81,
+Eliasoe Aguera,82,
+Eliasoe Aguera,83,
+Eliasoe Aguera,84,
+Eliasoe Aguera,85,
+Eliasoe Aguera,86,
+Eliasoe Aguera,87,
+Eliasoe Aguera,88,
+Eliasoe Aguera,89,
+Eliasoe Aguera,90,
+Ubana Tapias,1,e
+Ubana Tapias,2,c
+Ubana Tapias,3,a
+Ubana Tapias,4,c
+Ubana Tapias,5,a
+Ubana Tapias,6,e
+Ubana Tapias,7,c
+Ubana Tapias,8,e
+Ubana Tapias,9,d
+Ubana Tapias,10,b
+Ubana Tapias,11,d
+Ubana Tapias,12,a
+Ubana Tapias,13,d
+Ubana Tapias,14,e
+Ubana Tapias,15,b
+Ubana Tapias,16,a
+Ubana Tapias,17,b
+Ubana Tapias,18,e
+Ubana Tapias,19,d
+Ubana Tapias,20,e
+Ubana Tapias,21,b
+Ubana Tapias,22,c
+Ubana Tapias,23,d
+Ubana Tapias,24,d
+Ubana Tapias,25,d
+Ubana Tapias,26,
+Ubana Tapias,27,c
+Ubana Tapias,28,a
+Ubana Tapias,29,d
+Ubana Tapias,30,d
+Ubana Tapias,31,e
+Ubana Tapias,32,d
+Ubana Tapias,33,d
+Ubana Tapias,34,d
+Ubana Tapias,35,a
+Ubana Tapias,36,a
+Ubana Tapias,37,d
+Ubana Tapias,38,
+Ubana Tapias,39,c
+Ubana Tapias,40,b
+Ubana Tapias,41,d
+Ubana Tapias,42,e
+Ubana Tapias,43,b
+Ubana Tapias,44,b
+Ubana Tapias,45,c
+Ubana Tapias,46,a
+Ubana Tapias,47,
+Ubana Tapias,48,e
+Ubana Tapias,49,
+Ubana Tapias,50,b
+Ubana Tapias,51,
+Ubana Tapias,52,a
+Ubana Tapias,53,
+Ubana Tapias,54,c
+Ubana Tapias,55,
+Ubana Tapias,56,
+Ubana Tapias,57,d
+Ubana Tapias,58,
+Ubana Tapias,59,b
+Ubana Tapias,60,a
+Ubana Tapias,61,
+Ubana Tapias,62,
+Ubana Tapias,63,a
+Ubana Tapias,64,b
+Ubana Tapias,65,
+Ubana Tapias,66,
+Ubana Tapias,67,b
+Ubana Tapias,68,
+Ubana Tapias,69,
+Ubana Tapias,70,
+Ubana Tapias,71,a
+Ubana Tapias,72,d
+Ubana Tapias,73,c
+Ubana Tapias,74,
+Ubana Tapias,75,
+Ubana Tapias,76,
+Ubana Tapias,77,
+Ubana Tapias,78,
+Ubana Tapias,79,
+Ubana Tapias,80,
+Ubana Tapias,81,
+Ubana Tapias,82,
+Ubana Tapias,83,
+Ubana Tapias,84,
+Ubana Tapias,85,
+Ubana Tapias,86,a
+Ubana Tapias,87,
+Ubana Tapias,88,c
+Ubana Tapias,89,d
+Ubana Tapias,90,a
+Oton Carrizo,1,e
+Oton Carrizo,2,b
+Oton Carrizo,3,d
+Oton Carrizo,4,c
+Oton Carrizo,5,d
+Oton Carrizo,6,d
+Oton Carrizo,7,e
+Oton Carrizo,8,c
+Oton Carrizo,9,d
+Oton Carrizo,10,b
+Oton Carrizo,11,d
+Oton Carrizo,12,e
+Oton Carrizo,13,d
+Oton Carrizo,14,e
+Oton Carrizo,15,b
+Oton Carrizo,16,e
+Oton Carrizo,17,a
+Oton Carrizo,18,a
+Oton Carrizo,19,b
+Oton Carrizo,20,e
+Oton Carrizo,21,d
+Oton Carrizo,22,d
+Oton Carrizo,23,d
+Oton Carrizo,24,e
+Oton Carrizo,25,c
+Oton Carrizo,26,a
+Oton Carrizo,27,d
+Oton Carrizo,28,d
+Oton Carrizo,29,b
+Oton Carrizo,30,b
+Oton Carrizo,31,a
+Oton Carrizo,32,d
+Oton Carrizo,33,d
+Oton Carrizo,34,a
+Oton Carrizo,35,e
+Oton Carrizo,36,d
+Oton Carrizo,37,d
+Oton Carrizo,38,c
+Oton Carrizo,39,a
+Oton Carrizo,40,b
+Oton Carrizo,41,d
+Oton Carrizo,42,d
+Oton Carrizo,43,b
+Oton Carrizo,44,b
+Oton Carrizo,45,c
+Oton Carrizo,46,d
+Oton Carrizo,47,a
+Oton Carrizo,48,b
+Oton Carrizo,49,e
+Oton Carrizo,50,a
+Oton Carrizo,51,c
+Oton Carrizo,52,b
+Oton Carrizo,53,a
+Oton Carrizo,54,e
+Oton Carrizo,55,a
+Oton Carrizo,56,c
+Oton Carrizo,57,c
+Oton Carrizo,58,b
+Oton Carrizo,59,b
+Oton Carrizo,60,d
+Oton Carrizo,61,c
+Oton Carrizo,62,c
+Oton Carrizo,63,d
+Oton Carrizo,64,b
+Oton Carrizo,65,d
+Oton Carrizo,66,c
+Oton Carrizo,67,a
+Oton Carrizo,68,a
+Oton Carrizo,69,d
+Oton Carrizo,70,a
+Oton Carrizo,71,d
+Oton Carrizo,72,d
+Oton Carrizo,73,c
+Oton Carrizo,74,c
+Oton Carrizo,75,c
+Oton Carrizo,76,e
+Oton Carrizo,77,d
+Oton Carrizo,78,b
+Oton Carrizo,79,a
+Oton Carrizo,80,b
+Oton Carrizo,81,e
+Oton Carrizo,82,e
+Oton Carrizo,83,a
+Oton Carrizo,84,c
+Oton Carrizo,85,b
+Oton Carrizo,86,d
+Oton Carrizo,87,e
+Oton Carrizo,88,b
+Oton Carrizo,89,c
+Oton Carrizo,90,a
+Pandora Gorriz,1,
+Pandora Gorriz,2,
+Pandora Gorriz,3,
+Pandora Gorriz,4,
+Pandora Gorriz,5,
+Pandora Gorriz,6,
+Pandora Gorriz,7,
+Pandora Gorriz,8,
+Pandora Gorriz,9,
+Pandora Gorriz,10,
+Pandora Gorriz,11,
+Pandora Gorriz,12,
+Pandora Gorriz,13,
+Pandora Gorriz,14,
+Pandora Gorriz,15,
+Pandora Gorriz,16,
+Pandora Gorriz,17,
+Pandora Gorriz,18,
+Pandora Gorriz,19,
+Pandora Gorriz,20,
+Pandora Gorriz,21,
+Pandora Gorriz,22,
+Pandora Gorriz,23,
+Pandora Gorriz,24,
+Pandora Gorriz,25,
+Pandora Gorriz,26,
+Pandora Gorriz,27,
+Pandora Gorriz,28,
+Pandora Gorriz,29,
+Pandora Gorriz,30,
+Pandora Gorriz,31,
+Pandora Gorriz,32,
+Pandora Gorriz,33,
+Pandora Gorriz,34,
+Pandora Gorriz,35,
+Pandora Gorriz,36,
+Pandora Gorriz,37,
+Pandora Gorriz,38,
+Pandora Gorriz,39,
+Pandora Gorriz,40,
+Pandora Gorriz,41,
+Pandora Gorriz,42,
+Pandora Gorriz,43,
+Pandora Gorriz,44,
+Pandora Gorriz,45,
+Pandora Gorriz,46,
+Pandora Gorriz,47,
+Pandora Gorriz,48,
+Pandora Gorriz,49,
+Pandora Gorriz,50,
+Pandora Gorriz,51,
+Pandora Gorriz,52,
+Pandora Gorriz,53,
+Pandora Gorriz,54,
+Pandora Gorriz,55,
+Pandora Gorriz,56,
+Pandora Gorriz,57,
+Pandora Gorriz,58,
+Pandora Gorriz,59,
+Pandora Gorriz,60,
+Pandora Gorriz,61,
+Pandora Gorriz,62,
+Pandora Gorriz,63,
+Pandora Gorriz,64,
+Pandora Gorriz,65,
+Pandora Gorriz,66,
+Pandora Gorriz,67,
+Pandora Gorriz,68,
+Pandora Gorriz,69,
+Pandora Gorriz,70,
+Pandora Gorriz,71,
+Pandora Gorriz,72,
+Pandora Gorriz,73,
+Pandora Gorriz,74,
+Pandora Gorriz,75,
+Pandora Gorriz,76,
+Pandora Gorriz,77,
+Pandora Gorriz,78,
+Pandora Gorriz,79,
+Pandora Gorriz,80,
+Pandora Gorriz,81,
+Pandora Gorriz,82,
+Pandora Gorriz,83,
+Pandora Gorriz,84,
+Pandora Gorriz,85,
+Pandora Gorriz,86,
+Pandora Gorriz,87,
+Pandora Gorriz,88,
+Pandora Gorriz,89,
+Pandora Gorriz,90,
+Laurentine Santin,1,e
+Laurentine Santin,2,b
+Laurentine Santin,3,c
+Laurentine Santin,4,c
+Laurentine Santin,5,e
+Laurentine Santin,6,d
+Laurentine Santin,7,d
+Laurentine Santin,8,d
+Laurentine Santin,9,d
+Laurentine Santin,10,e
+Laurentine Santin,11,a
+Laurentine Santin,12,a
+Laurentine Santin,13,d
+Laurentine Santin,14,e
+Laurentine Santin,15,c
+Laurentine Santin,16,e
+Laurentine Santin,17,a
+Laurentine Santin,18,d
+Laurentine Santin,19,a
+Laurentine Santin,20,e
+Laurentine Santin,21,a
+Laurentine Santin,22,e
+Laurentine Santin,23,d
+Laurentine Santin,24,c
+Laurentine Santin,25,d
+Laurentine Santin,26,a
+Laurentine Santin,27,e
+Laurentine Santin,28,d
+Laurentine Santin,29,c
+Laurentine Santin,30,c
+Laurentine Santin,31,a
+Laurentine Santin,32,e
+Laurentine Santin,33,a
+Laurentine Santin,34,b
+Laurentine Santin,35,a
+Laurentine Santin,36,b
+Laurentine Santin,37,b
+Laurentine Santin,38,b
+Laurentine Santin,39,b
+Laurentine Santin,40,e
+Laurentine Santin,41,e
+Laurentine Santin,42,c
+Laurentine Santin,43,b
+Laurentine Santin,44,b
+Laurentine Santin,45,c
+Laurentine Santin,46,b
+Laurentine Santin,47,a
+Laurentine Santin,48,d
+Laurentine Santin,49,b
+Laurentine Santin,50,b
+Laurentine Santin,51,b
+Laurentine Santin,52,b
+Laurentine Santin,53,d
+Laurentine Santin,54,d
+Laurentine Santin,55,d
+Laurentine Santin,56,d
+Laurentine Santin,57,d
+Laurentine Santin,58,d
+Laurentine Santin,59,a
+Laurentine Santin,60,d
+Laurentine Santin,61,c
+Laurentine Santin,62,d
+Laurentine Santin,63,a
+Laurentine Santin,64,c
+Laurentine Santin,65,e
+Laurentine Santin,66,b
+Laurentine Santin,67,d
+Laurentine Santin,68,b
+Laurentine Santin,69,b
+Laurentine Santin,70,b
+Laurentine Santin,71,b
+Laurentine Santin,72,e
+Laurentine Santin,73,e
+Laurentine Santin,74,e
+Laurentine Santin,75,c
+Laurentine Santin,76,b
+Laurentine Santin,77,c
+Laurentine Santin,78,a
+Laurentine Santin,79,d
+Laurentine Santin,80,b
+Laurentine Santin,81,d
+Laurentine Santin,82,b
+Laurentine Santin,83,a
+Laurentine Santin,84,d
+Laurentine Santin,85,a
+Laurentine Santin,86,c
+Laurentine Santin,87,a
+Laurentine Santin,88,d
+Laurentine Santin,89,c
+Laurentine Santin,90,a
+Celiny Fraga,1,e
+Celiny Fraga,2,b
+Celiny Fraga,3,d
+Celiny Fraga,4,c
+Celiny Fraga,5,b
+Celiny Fraga,6,e
+Celiny Fraga,7,d
+Celiny Fraga,8,c
+Celiny Fraga,9,d
+Celiny Fraga,10,a
+Celiny Fraga,11,d
+Celiny Fraga,12,b
+Celiny Fraga,13,c
+Celiny Fraga,14,e
+Celiny Fraga,15,b
+Celiny Fraga,16,e
+Celiny Fraga,17,d
+Celiny Fraga,18,a
+Celiny Fraga,19,a
+Celiny Fraga,20,e
+Celiny Fraga,21,e
+Celiny Fraga,22,e
+Celiny Fraga,23,d
+Celiny Fraga,24,e
+Celiny Fraga,25,d
+Celiny Fraga,26,b
+Celiny Fraga,27,d
+Celiny Fraga,28,d
+Celiny Fraga,29,b
+Celiny Fraga,30,d
+Celiny Fraga,31,c
+Celiny Fraga,32,a
+Celiny Fraga,33,b
+Celiny Fraga,34,c
+Celiny Fraga,35,e
+Celiny Fraga,36,b
+Celiny Fraga,37,d
+Celiny Fraga,38,b
+Celiny Fraga,39,b
+Celiny Fraga,40,d
+Celiny Fraga,41,d
+Celiny Fraga,42,c
+Celiny Fraga,43,b
+Celiny Fraga,44,d
+Celiny Fraga,45,c
+Celiny Fraga,46,b
+Celiny Fraga,47,a
+Celiny Fraga,48,c
+Celiny Fraga,49,b
+Celiny Fraga,50,b
+Celiny Fraga,51,d
+Celiny Fraga,52,b
+Celiny Fraga,53,b
+Celiny Fraga,54,e
+Celiny Fraga,55,d
+Celiny Fraga,56,b
+Celiny Fraga,57,d
+Celiny Fraga,58,b
+Celiny Fraga,59,a
+Celiny Fraga,60,d
+Celiny Fraga,61,a
+Celiny Fraga,62,e
+Celiny Fraga,63,a
+Celiny Fraga,64,b
+Celiny Fraga,65,c
+Celiny Fraga,66,c
+Celiny Fraga,67,b
+Celiny Fraga,68,c
+Celiny Fraga,69,a
+Celiny Fraga,70,e
+Celiny Fraga,71,d
+Celiny Fraga,72,d
+Celiny Fraga,73,e
+Celiny Fraga,74,c
+Celiny Fraga,75,b
+Celiny Fraga,76,d
+Celiny Fraga,77,e
+Celiny Fraga,78,a
+Celiny Fraga,79,a
+Celiny Fraga,80,b
+Celiny Fraga,81,b
+Celiny Fraga,82,d
+Celiny Fraga,83,a
+Celiny Fraga,84,a
+Celiny Fraga,85,d
+Celiny Fraga,86,a
+Celiny Fraga,87,a
+Celiny Fraga,88,a
+Celiny Fraga,89,a
+Celiny Fraga,90,a
+Leikela Lizarralde,1,
+Leikela Lizarralde,2,
+Leikela Lizarralde,3,c
+Leikela Lizarralde,4,c
+Leikela Lizarralde,5,
+Leikela Lizarralde,6,e
+Leikela Lizarralde,7,d
+Leikela Lizarralde,8,d
+Leikela Lizarralde,9,d
+Leikela Lizarralde,10,
+Leikela Lizarralde,11,a
+Leikela Lizarralde,12,
+Leikela Lizarralde,13,d
+Leikela Lizarralde,14,
+Leikela Lizarralde,15,
+Leikela Lizarralde,16,a
+Leikela Lizarralde,17,
+Leikela Lizarralde,18,b
+Leikela Lizarralde,19,c
+Leikela Lizarralde,20,d
+Leikela Lizarralde,21,
+Leikela Lizarralde,22,
+Leikela Lizarralde,23,a
+Leikela Lizarralde,24,a
+Leikela Lizarralde,25,
+Leikela Lizarralde,26,
+Leikela Lizarralde,27,
+Leikela Lizarralde,28,
+Leikela Lizarralde,29,
+Leikela Lizarralde,30,
+Leikela Lizarralde,31,a
+Leikela Lizarralde,32,a
+Leikela Lizarralde,33,c
+Leikela Lizarralde,34,
+Leikela Lizarralde,35,d
+Leikela Lizarralde,36,
+Leikela Lizarralde,37,b
+Leikela Lizarralde,38,
+Leikela Lizarralde,39,
+Leikela Lizarralde,40,
+Leikela Lizarralde,41,
+Leikela Lizarralde,42,c
+Leikela Lizarralde,43,c
+Leikela Lizarralde,44,e
+Leikela Lizarralde,45,
+Leikela Lizarralde,46,d
+Leikela Lizarralde,47,
+Leikela Lizarralde,48,b
+Leikela Lizarralde,49,
+Leikela Lizarralde,50,c
+Leikela Lizarralde,51,
+Leikela Lizarralde,52,a
+Leikela Lizarralde,53,
+Leikela Lizarralde,54,
+Leikela Lizarralde,55,
+Leikela Lizarralde,56,c
+Leikela Lizarralde,57,
+Leikela Lizarralde,58,
+Leikela Lizarralde,59,
+Leikela Lizarralde,60,d
+Leikela Lizarralde,61,
+Leikela Lizarralde,62,
+Leikela Lizarralde,63,
+Leikela Lizarralde,64,
+Leikela Lizarralde,65,
+Leikela Lizarralde,66,
+Leikela Lizarralde,67,b
+Leikela Lizarralde,68,
+Leikela Lizarralde,69,
+Leikela Lizarralde,70,
+Leikela Lizarralde,71,d
+Leikela Lizarralde,72,
+Leikela Lizarralde,73,
+Leikela Lizarralde,74,
+Leikela Lizarralde,75,
+Leikela Lizarralde,76,
+Leikela Lizarralde,77,
+Leikela Lizarralde,78,
+Leikela Lizarralde,79,
+Leikela Lizarralde,80,
+Leikela Lizarralde,81,
+Leikela Lizarralde,82,
+Leikela Lizarralde,83,
+Leikela Lizarralde,84,
+Leikela Lizarralde,85,
+Leikela Lizarralde,86,
+Leikela Lizarralde,87,
+Leikela Lizarralde,88,
+Leikela Lizarralde,89,
+Leikela Lizarralde,90,
+Roger dos Santos,1,e
+Roger dos Santos,2,c
+Roger dos Santos,3,a
+Roger dos Santos,4,c
+Roger dos Santos,5,d
+Roger dos Santos,6,b
+Roger dos Santos,7,d
+Roger dos Santos,8,b
+Roger dos Santos,9,a
+Roger dos Santos,10,b
+Roger dos Santos,11,d
+Roger dos Santos,12,a
+Roger dos Santos,13,c
+Roger dos Santos,14,d
+Roger dos Santos,15,c
+Roger dos Santos,16,b
+Roger dos Santos,17,a
+Roger dos Santos,18,d
+Roger dos Santos,19,e
+Roger dos Santos,20,c
+Roger dos Santos,21,a
+Roger dos Santos,22,e
+Roger dos Santos,23,b
+Roger dos Santos,24,d
+Roger dos Santos,25,d
+Roger dos Santos,26,c
+Roger dos Santos,27,d
+Roger dos Santos,28,e
+Roger dos Santos,29,b
+Roger dos Santos,30,a
+Roger dos Santos,31,d
+Roger dos Santos,32,b
+Roger dos Santos,33,e
+Roger dos Santos,34,e
+Roger dos Santos,35,b
+Roger dos Santos,36,d
+Roger dos Santos,37,a
+Roger dos Santos,38,c
+Roger dos Santos,39,d
+Roger dos Santos,40,a
+Roger dos Santos,41,b
+Roger dos Santos,42,d
+Roger dos Santos,43,e
+Roger dos Santos,44,a
+Roger dos Santos,45,c
+Roger dos Santos,46,b
+Roger dos Santos,47,e
+Roger dos Santos,48,b
+Roger dos Santos,49,c
+Roger dos Santos,50,a
+Roger dos Santos,51,d
+Roger dos Santos,52,b
+Roger dos Santos,53,c
+Roger dos Santos,54,e
+Roger dos Santos,55,a
+Roger dos Santos,56,c
+Roger dos Santos,57,d
+Roger dos Santos,58,b
+Roger dos Santos,59,b
+Roger dos Santos,60,a
+Roger dos Santos,61,b
+Roger dos Santos,62,e
+Roger dos Santos,63,a
+Roger dos Santos,64,e
+Roger dos Santos,65,c
+Roger dos Santos,66,a
+Roger dos Santos,67,e
+Roger dos Santos,68,c
+Roger dos Santos,69,d
+Roger dos Santos,70,d
+Roger dos Santos,71,a
+Roger dos Santos,72,e
+Roger dos Santos,73,c
+Roger dos Santos,74,b
+Roger dos Santos,75,a
+Roger dos Santos,76,d
+Roger dos Santos,77,a
+Roger dos Santos,78,a
+Roger dos Santos,79,d
+Roger dos Santos,80,d
+Roger dos Santos,81,c
+Roger dos Santos,82,b
+Roger dos Santos,83,a
+Roger dos Santos,84,c
+Roger dos Santos,85,e
+Roger dos Santos,86,a
+Roger dos Santos,87,d
+Roger dos Santos,88,e
+Roger dos Santos,89,b
+Roger dos Santos,90,c
+Neila Liera,1,
+Neila Liera,2,
+Neila Liera,3,
+Neila Liera,4,
+Neila Liera,5,
+Neila Liera,6,
+Neila Liera,7,
+Neila Liera,8,
+Neila Liera,9,
+Neila Liera,10,
+Neila Liera,11,
+Neila Liera,12,
+Neila Liera,13,
+Neila Liera,14,
+Neila Liera,15,
+Neila Liera,16,
+Neila Liera,17,
+Neila Liera,18,
+Neila Liera,19,
+Neila Liera,20,
+Neila Liera,21,
+Neila Liera,22,
+Neila Liera,23,
+Neila Liera,24,
+Neila Liera,25,
+Neila Liera,26,
+Neila Liera,27,
+Neila Liera,28,
+Neila Liera,29,
+Neila Liera,30,
+Neila Liera,31,
+Neila Liera,32,
+Neila Liera,33,
+Neila Liera,34,
+Neila Liera,35,
+Neila Liera,36,
+Neila Liera,37,
+Neila Liera,38,
+Neila Liera,39,
+Neila Liera,40,
+Neila Liera,41,
+Neila Liera,42,
+Neila Liera,43,
+Neila Liera,44,
+Neila Liera,45,
+Neila Liera,46,
+Neila Liera,47,
+Neila Liera,48,
+Neila Liera,49,
+Neila Liera,50,
+Neila Liera,51,
+Neila Liera,52,
+Neila Liera,53,
+Neila Liera,54,
+Neila Liera,55,
+Neila Liera,56,
+Neila Liera,57,
+Neila Liera,58,
+Neila Liera,59,
+Neila Liera,60,
+Neila Liera,61,
+Neila Liera,62,
+Neila Liera,63,
+Neila Liera,64,
+Neila Liera,65,
+Neila Liera,66,
+Neila Liera,67,
+Neila Liera,68,
+Neila Liera,69,
+Neila Liera,70,
+Neila Liera,71,
+Neila Liera,72,
+Neila Liera,73,
+Neila Liera,74,
+Neila Liera,75,
+Neila Liera,76,
+Neila Liera,77,
+Neila Liera,78,
+Neila Liera,79,
+Neila Liera,80,
+Neila Liera,81,
+Neila Liera,82,
+Neila Liera,83,
+Neila Liera,84,
+Neila Liera,85,
+Neila Liera,86,
+Neila Liera,87,
+Neila Liera,88,
+Neila Liera,89,
+Neila Liera,90,
+Nidia Rentero,1,
+Nidia Rentero,2,
+Nidia Rentero,3,
+Nidia Rentero,4,
+Nidia Rentero,5,
+Nidia Rentero,6,
+Nidia Rentero,7,
+Nidia Rentero,8,
+Nidia Rentero,9,
+Nidia Rentero,10,
+Nidia Rentero,11,
+Nidia Rentero,12,
+Nidia Rentero,13,
+Nidia Rentero,14,
+Nidia Rentero,15,
+Nidia Rentero,16,
+Nidia Rentero,17,
+Nidia Rentero,18,
+Nidia Rentero,19,
+Nidia Rentero,20,
+Nidia Rentero,21,
+Nidia Rentero,22,
+Nidia Rentero,23,
+Nidia Rentero,24,
+Nidia Rentero,25,
+Nidia Rentero,26,
+Nidia Rentero,27,
+Nidia Rentero,28,
+Nidia Rentero,29,
+Nidia Rentero,30,
+Nidia Rentero,31,
+Nidia Rentero,32,
+Nidia Rentero,33,
+Nidia Rentero,34,
+Nidia Rentero,35,
+Nidia Rentero,36,
+Nidia Rentero,37,
+Nidia Rentero,38,
+Nidia Rentero,39,
+Nidia Rentero,40,
+Nidia Rentero,41,
+Nidia Rentero,42,
+Nidia Rentero,43,
+Nidia Rentero,44,
+Nidia Rentero,45,
+Nidia Rentero,46,
+Nidia Rentero,47,
+Nidia Rentero,48,
+Nidia Rentero,49,
+Nidia Rentero,50,
+Nidia Rentero,51,
+Nidia Rentero,52,
+Nidia Rentero,53,
+Nidia Rentero,54,
+Nidia Rentero,55,
+Nidia Rentero,56,
+Nidia Rentero,57,
+Nidia Rentero,58,
+Nidia Rentero,59,
+Nidia Rentero,60,
+Nidia Rentero,61,
+Nidia Rentero,62,
+Nidia Rentero,63,
+Nidia Rentero,64,
+Nidia Rentero,65,
+Nidia Rentero,66,
+Nidia Rentero,67,
+Nidia Rentero,68,
+Nidia Rentero,69,
+Nidia Rentero,70,
+Nidia Rentero,71,
+Nidia Rentero,72,
+Nidia Rentero,73,
+Nidia Rentero,74,
+Nidia Rentero,75,
+Nidia Rentero,76,
+Nidia Rentero,77,
+Nidia Rentero,78,
+Nidia Rentero,79,
+Nidia Rentero,80,
+Nidia Rentero,81,
+Nidia Rentero,82,
+Nidia Rentero,83,
+Nidia Rentero,84,
+Nidia Rentero,85,
+Nidia Rentero,86,
+Nidia Rentero,87,
+Nidia Rentero,88,
+Nidia Rentero,89,
+Nidia Rentero,90,
+Emereciana Casals,1,e
+Emereciana Casals,2,b
+Emereciana Casals,3,d
+Emereciana Casals,4,c
+Emereciana Casals,5,c
+Emereciana Casals,6,e
+Emereciana Casals,7,d
+Emereciana Casals,8,a
+Emereciana Casals,9,c
+Emereciana Casals,10,a
+Emereciana Casals,11,a
+Emereciana Casals,12,a
+Emereciana Casals,13,d
+Emereciana Casals,14,e
+Emereciana Casals,15,c
+Emereciana Casals,16,e
+Emereciana Casals,17,e
+Emereciana Casals,18,d
+Emereciana Casals,19,a
+Emereciana Casals,20,d
+Emereciana Casals,21,a
+Emereciana Casals,22,e
+Emereciana Casals,23,a
+Emereciana Casals,24,d
+Emereciana Casals,25,d
+Emereciana Casals,26,b
+Emereciana Casals,27,d
+Emereciana Casals,28,c
+Emereciana Casals,29,c
+Emereciana Casals,30,b
+Emereciana Casals,31,c
+Emereciana Casals,32,c
+Emereciana Casals,33,c
+Emereciana Casals,34,c
+Emereciana Casals,35,b
+Emereciana Casals,36,c
+Emereciana Casals,37,d
+Emereciana Casals,38,c
+Emereciana Casals,39,b
+Emereciana Casals,40,a
+Emereciana Casals,41,b
+Emereciana Casals,42,b
+Emereciana Casals,43,c
+Emereciana Casals,44,a
+Emereciana Casals,45,d
+Emereciana Casals,46,b
+Emereciana Casals,47,c
+Emereciana Casals,48,c
+Emereciana Casals,49,a
+Emereciana Casals,50,a
+Emereciana Casals,51,d
+Emereciana Casals,52,a
+Emereciana Casals,53,b
+Emereciana Casals,54,c
+Emereciana Casals,55,d
+Emereciana Casals,56,d
+Emereciana Casals,57,d
+Emereciana Casals,58,c
+Emereciana Casals,59,d
+Emereciana Casals,60,b
+Emereciana Casals,61,c
+Emereciana Casals,62,d
+Emereciana Casals,63,c
+Emereciana Casals,64,b
+Emereciana Casals,65,c
+Emereciana Casals,66,b
+Emereciana Casals,67,c
+Emereciana Casals,68,a
+Emereciana Casals,69,d
+Emereciana Casals,70,b
+Emereciana Casals,71,b
+Emereciana Casals,72,a
+Emereciana Casals,73,e
+Emereciana Casals,74,b
+Emereciana Casals,75,e
+Emereciana Casals,76,b
+Emereciana Casals,77,b
+Emereciana Casals,78,d
+Emereciana Casals,79,a
+Emereciana Casals,80,d
+Emereciana Casals,81,b
+Emereciana Casals,82,c
+Emereciana Casals,83,c
+Emereciana Casals,84,b
+Emereciana Casals,85,a
+Emereciana Casals,86,b
+Emereciana Casals,87,e
+Emereciana Casals,88,d
+Emereciana Casals,89,b
+Emereciana Casals,90,c
+Userl Civico,1,
+Userl Civico,2,
+Userl Civico,3,
+Userl Civico,4,
+Userl Civico,5,
+Userl Civico,6,
+Userl Civico,7,
+Userl Civico,8,
+Userl Civico,9,
+Userl Civico,10,
+Userl Civico,11,
+Userl Civico,12,
+Userl Civico,13,
+Userl Civico,14,
+Userl Civico,15,
+Userl Civico,16,
+Userl Civico,17,
+Userl Civico,18,
+Userl Civico,19,
+Userl Civico,20,
+Userl Civico,21,
+Userl Civico,22,
+Userl Civico,23,
+Userl Civico,24,
+Userl Civico,25,
+Userl Civico,26,
+Userl Civico,27,
+Userl Civico,28,
+Userl Civico,29,
+Userl Civico,30,
+Userl Civico,31,
+Userl Civico,32,
+Userl Civico,33,
+Userl Civico,34,
+Userl Civico,35,
+Userl Civico,36,
+Userl Civico,37,
+Userl Civico,38,
+Userl Civico,39,
+Userl Civico,40,
+Userl Civico,41,
+Userl Civico,42,
+Userl Civico,43,
+Userl Civico,44,
+Userl Civico,45,
+Userl Civico,46,
+Userl Civico,47,
+Userl Civico,48,
+Userl Civico,49,
+Userl Civico,50,
+Userl Civico,51,
+Userl Civico,52,
+Userl Civico,53,
+Userl Civico,54,
+Userl Civico,55,
+Userl Civico,56,
+Userl Civico,57,
+Userl Civico,58,
+Userl Civico,59,
+Userl Civico,60,
+Userl Civico,61,
+Userl Civico,62,
+Userl Civico,63,
+Userl Civico,64,
+Userl Civico,65,
+Userl Civico,66,
+Userl Civico,67,
+Userl Civico,68,
+Userl Civico,69,
+Userl Civico,70,
+Userl Civico,71,
+Userl Civico,72,
+Userl Civico,73,
+Userl Civico,74,
+Userl Civico,75,
+Userl Civico,76,
+Userl Civico,77,
+Userl Civico,78,
+Userl Civico,79,
+Userl Civico,80,
+Userl Civico,81,
+Userl Civico,82,
+Userl Civico,83,
+Userl Civico,84,
+Userl Civico,85,
+Userl Civico,86,
+Userl Civico,87,
+Userl Civico,88,
+Userl Civico,89,
+Userl Civico,90,
+Pali Neagu,1,
+Pali Neagu,2,
+Pali Neagu,3,
+Pali Neagu,4,
+Pali Neagu,5,
+Pali Neagu,6,
+Pali Neagu,7,
+Pali Neagu,8,
+Pali Neagu,9,
+Pali Neagu,10,
+Pali Neagu,11,
+Pali Neagu,12,
+Pali Neagu,13,
+Pali Neagu,14,
+Pali Neagu,15,
+Pali Neagu,16,
+Pali Neagu,17,
+Pali Neagu,18,
+Pali Neagu,19,
+Pali Neagu,20,
+Pali Neagu,21,
+Pali Neagu,22,
+Pali Neagu,23,
+Pali Neagu,24,
+Pali Neagu,25,
+Pali Neagu,26,
+Pali Neagu,27,
+Pali Neagu,28,
+Pali Neagu,29,
+Pali Neagu,30,
+Pali Neagu,31,
+Pali Neagu,32,
+Pali Neagu,33,
+Pali Neagu,34,
+Pali Neagu,35,
+Pali Neagu,36,
+Pali Neagu,37,
+Pali Neagu,38,
+Pali Neagu,39,
+Pali Neagu,40,
+Pali Neagu,41,
+Pali Neagu,42,
+Pali Neagu,43,
+Pali Neagu,44,
+Pali Neagu,45,
+Pali Neagu,46,
+Pali Neagu,47,
+Pali Neagu,48,
+Pali Neagu,49,
+Pali Neagu,50,
+Pali Neagu,51,
+Pali Neagu,52,
+Pali Neagu,53,
+Pali Neagu,54,
+Pali Neagu,55,
+Pali Neagu,56,
+Pali Neagu,57,
+Pali Neagu,58,
+Pali Neagu,59,
+Pali Neagu,60,
+Pali Neagu,61,
+Pali Neagu,62,
+Pali Neagu,63,
+Pali Neagu,64,
+Pali Neagu,65,
+Pali Neagu,66,
+Pali Neagu,67,
+Pali Neagu,68,
+Pali Neagu,69,
+Pali Neagu,70,
+Pali Neagu,71,
+Pali Neagu,72,
+Pali Neagu,73,
+Pali Neagu,74,
+Pali Neagu,75,
+Pali Neagu,76,
+Pali Neagu,77,
+Pali Neagu,78,
+Pali Neagu,79,
+Pali Neagu,80,
+Pali Neagu,81,
+Pali Neagu,82,
+Pali Neagu,83,
+Pali Neagu,84,
+Pali Neagu,85,
+Pali Neagu,86,
+Pali Neagu,87,
+Pali Neagu,88,
+Pali Neagu,89,
+Pali Neagu,90,
+Jannike Iparraguirre,1,
+Jannike Iparraguirre,2,
+Jannike Iparraguirre,3,
+Jannike Iparraguirre,4,
+Jannike Iparraguirre,5,
+Jannike Iparraguirre,6,
+Jannike Iparraguirre,7,
+Jannike Iparraguirre,8,
+Jannike Iparraguirre,9,
+Jannike Iparraguirre,10,
+Jannike Iparraguirre,11,
+Jannike Iparraguirre,12,
+Jannike Iparraguirre,13,
+Jannike Iparraguirre,14,
+Jannike Iparraguirre,15,
+Jannike Iparraguirre,16,
+Jannike Iparraguirre,17,
+Jannike Iparraguirre,18,
+Jannike Iparraguirre,19,
+Jannike Iparraguirre,20,
+Jannike Iparraguirre,21,
+Jannike Iparraguirre,22,
+Jannike Iparraguirre,23,
+Jannike Iparraguirre,24,
+Jannike Iparraguirre,25,
+Jannike Iparraguirre,26,
+Jannike Iparraguirre,27,
+Jannike Iparraguirre,28,
+Jannike Iparraguirre,29,
+Jannike Iparraguirre,30,
+Jannike Iparraguirre,31,
+Jannike Iparraguirre,32,
+Jannike Iparraguirre,33,
+Jannike Iparraguirre,34,
+Jannike Iparraguirre,35,
+Jannike Iparraguirre,36,
+Jannike Iparraguirre,37,
+Jannike Iparraguirre,38,
+Jannike Iparraguirre,39,
+Jannike Iparraguirre,40,
+Jannike Iparraguirre,41,
+Jannike Iparraguirre,42,
+Jannike Iparraguirre,43,
+Jannike Iparraguirre,44,
+Jannike Iparraguirre,45,
+Jannike Iparraguirre,46,
+Jannike Iparraguirre,47,
+Jannike Iparraguirre,48,
+Jannike Iparraguirre,49,
+Jannike Iparraguirre,50,
+Jannike Iparraguirre,51,
+Jannike Iparraguirre,52,
+Jannike Iparraguirre,53,
+Jannike Iparraguirre,54,
+Jannike Iparraguirre,55,
+Jannike Iparraguirre,56,
+Jannike Iparraguirre,57,
+Jannike Iparraguirre,58,
+Jannike Iparraguirre,59,
+Jannike Iparraguirre,60,
+Jannike Iparraguirre,61,
+Jannike Iparraguirre,62,
+Jannike Iparraguirre,63,
+Jannike Iparraguirre,64,
+Jannike Iparraguirre,65,
+Jannike Iparraguirre,66,
+Jannike Iparraguirre,67,
+Jannike Iparraguirre,68,
+Jannike Iparraguirre,69,
+Jannike Iparraguirre,70,
+Jannike Iparraguirre,71,
+Jannike Iparraguirre,72,
+Jannike Iparraguirre,73,
+Jannike Iparraguirre,74,
+Jannike Iparraguirre,75,
+Jannike Iparraguirre,76,
+Jannike Iparraguirre,77,
+Jannike Iparraguirre,78,
+Jannike Iparraguirre,79,
+Jannike Iparraguirre,80,
+Jannike Iparraguirre,81,
+Jannike Iparraguirre,82,
+Jannike Iparraguirre,83,
+Jannike Iparraguirre,84,
+Jannike Iparraguirre,85,
+Jannike Iparraguirre,86,
+Jannike Iparraguirre,87,
+Jannike Iparraguirre,88,
+Jannike Iparraguirre,89,
+Jannike Iparraguirre,90,
+Alban Ribeiro,1,e
+Alban Ribeiro,2,c
+Alban Ribeiro,3,a
+Alban Ribeiro,4,c
+Alban Ribeiro,5,d
+Alban Ribeiro,6,e
+Alban Ribeiro,7,b
+Alban Ribeiro,8,c
+Alban Ribeiro,9,d
+Alban Ribeiro,10,e
+Alban Ribeiro,11,d
+Alban Ribeiro,12,a
+Alban Ribeiro,13,d
+Alban Ribeiro,14,e
+Alban Ribeiro,15,b
+Alban Ribeiro,16,a
+Alban Ribeiro,17,e
+Alban Ribeiro,18,
+Alban Ribeiro,19,
+Alban Ribeiro,20,
+Alban Ribeiro,21,
+Alban Ribeiro,22,
+Alban Ribeiro,23,
+Alban Ribeiro,24,c
+Alban Ribeiro,25,
+Alban Ribeiro,26,
+Alban Ribeiro,27,
+Alban Ribeiro,28,
+Alban Ribeiro,29,
+Alban Ribeiro,30,
+Alban Ribeiro,31,
+Alban Ribeiro,32,
+Alban Ribeiro,33,d
+Alban Ribeiro,34,
+Alban Ribeiro,35,b
+Alban Ribeiro,36,
+Alban Ribeiro,37,b
+Alban Ribeiro,38,
+Alban Ribeiro,39,
+Alban Ribeiro,40,
+Alban Ribeiro,41,d
+Alban Ribeiro,42,e
+Alban Ribeiro,43,d
+Alban Ribeiro,44,e
+Alban Ribeiro,45,
+Alban Ribeiro,46,d
+Alban Ribeiro,47,
+Alban Ribeiro,48,c
+Alban Ribeiro,49,
+Alban Ribeiro,50,
+Alban Ribeiro,51,
+Alban Ribeiro,52,a
+Alban Ribeiro,53,
+Alban Ribeiro,54,
+Alban Ribeiro,55,
+Alban Ribeiro,56,
+Alban Ribeiro,57,
+Alban Ribeiro,58,
+Alban Ribeiro,59,
+Alban Ribeiro,60,d
+Alban Ribeiro,61,
+Alban Ribeiro,62,
+Alban Ribeiro,63,
+Alban Ribeiro,64,
+Alban Ribeiro,65,
+Alban Ribeiro,66,
+Alban Ribeiro,67,
+Alban Ribeiro,68,
+Alban Ribeiro,69,
+Alban Ribeiro,70,
+Alban Ribeiro,71,
+Alban Ribeiro,72,
+Alban Ribeiro,73,
+Alban Ribeiro,74,
+Alban Ribeiro,75,
+Alban Ribeiro,76,
+Alban Ribeiro,77,
+Alban Ribeiro,78,
+Alban Ribeiro,79,
+Alban Ribeiro,80,
+Alban Ribeiro,81,
+Alban Ribeiro,82,
+Alban Ribeiro,83,
+Alban Ribeiro,84,
+Alban Ribeiro,85,
+Alban Ribeiro,86,
+Alban Ribeiro,87,
+Alban Ribeiro,88,
+Alban Ribeiro,89,e
+Alban Ribeiro,90,b
+Vasti Murciano,1,e
+Vasti Murciano,2,b
+Vasti Murciano,3,c
+Vasti Murciano,4,c
+Vasti Murciano,5,d
+Vasti Murciano,6,a
+Vasti Murciano,7,d
+Vasti Murciano,8,c
+Vasti Murciano,9,c
+Vasti Murciano,10,a
+Vasti Murciano,11,d
+Vasti Murciano,12,a
+Vasti Murciano,13,d
+Vasti Murciano,14,e
+Vasti Murciano,15,c
+Vasti Murciano,16,e
+Vasti Murciano,17,a
+Vasti Murciano,18,d
+Vasti Murciano,19,e
+Vasti Murciano,20,c
+Vasti Murciano,21,
+Vasti Murciano,22,d
+Vasti Murciano,23,a
+Vasti Murciano,24,e
+Vasti Murciano,25,d
+Vasti Murciano,26,
+Vasti Murciano,27,d
+Vasti Murciano,28,a
+Vasti Murciano,29,c
+Vasti Murciano,30,
+Vasti Murciano,31,
+Vasti Murciano,32,b
+Vasti Murciano,33,
+Vasti Murciano,34,
+Vasti Murciano,35,e
+Vasti Murciano,36,d
+Vasti Murciano,37,b
+Vasti Murciano,38,
+Vasti Murciano,39,
+Vasti Murciano,40,
+Vasti Murciano,41,b
+Vasti Murciano,42,a
+Vasti Murciano,43,a
+Vasti Murciano,44,c
+Vasti Murciano,45,c
+Vasti Murciano,46,b
+Vasti Murciano,47,
+Vasti Murciano,48,d
+Vasti Murciano,49,
+Vasti Murciano,50,
+Vasti Murciano,51,
+Vasti Murciano,52,
+Vasti Murciano,53,
+Vasti Murciano,54,
+Vasti Murciano,55,
+Vasti Murciano,56,
+Vasti Murciano,57,
+Vasti Murciano,58,
+Vasti Murciano,59,
+Vasti Murciano,60,
+Vasti Murciano,61,
+Vasti Murciano,62,
+Vasti Murciano,63,
+Vasti Murciano,64,
+Vasti Murciano,65,
+Vasti Murciano,66,
+Vasti Murciano,67,
+Vasti Murciano,68,
+Vasti Murciano,69,
+Vasti Murciano,70,
+Vasti Murciano,71,
+Vasti Murciano,72,
+Vasti Murciano,73,
+Vasti Murciano,74,
+Vasti Murciano,75,
+Vasti Murciano,76,
+Vasti Murciano,77,
+Vasti Murciano,78,
+Vasti Murciano,79,
+Vasti Murciano,80,
+Vasti Murciano,81,
+Vasti Murciano,82,
+Vasti Murciano,83,
+Vasti Murciano,84,
+Vasti Murciano,85,
+Vasti Murciano,86,
+Vasti Murciano,87,
+Vasti Murciano,88,
+Vasti Murciano,89,
+Vasti Murciano,90,
+Cruz e Silva,1,e
+Cruz e Silva,2,b
+Cruz e Silva,3,b
+Cruz e Silva,4,e
+Cruz e Silva,5,e
+Cruz e Silva,6,d
+Cruz e Silva,7,b
+Cruz e Silva,8,a
+Cruz e Silva,9,c
+Cruz e Silva,10,a
+Cruz e Silva,11,d
+Cruz e Silva,12,a
+Cruz e Silva,13,c
+Cruz e Silva,14,e
+Cruz e Silva,15,b
+Cruz e Silva,16,a
+Cruz e Silva,17,b
+Cruz e Silva,18,a
+Cruz e Silva,19,e
+Cruz e Silva,20,d
+Cruz e Silva,21,b
+Cruz e Silva,22,e
+Cruz e Silva,23,d
+Cruz e Silva,24,a
+Cruz e Silva,25,c
+Cruz e Silva,26,a
+Cruz e Silva,27,d
+Cruz e Silva,28,c
+Cruz e Silva,29,b
+Cruz e Silva,30,b
+Cruz e Silva,31,a
+Cruz e Silva,32,a
+Cruz e Silva,33,a
+Cruz e Silva,34,c
+Cruz e Silva,35,a
+Cruz e Silva,36,a
+Cruz e Silva,37,d
+Cruz e Silva,38,b
+Cruz e Silva,39,d
+Cruz e Silva,40,e
+Cruz e Silva,41,d
+Cruz e Silva,42,b
+Cruz e Silva,43,b
+Cruz e Silva,44,b
+Cruz e Silva,45,a
+Cruz e Silva,46,d
+Cruz e Silva,47,a
+Cruz e Silva,48,b
+Cruz e Silva,49,b
+Cruz e Silva,50,e
+Cruz e Silva,51,e
+Cruz e Silva,52,e
+Cruz e Silva,53,c
+Cruz e Silva,54,a
+Cruz e Silva,55,a
+Cruz e Silva,56,b
+Cruz e Silva,57,d
+Cruz e Silva,58,b
+Cruz e Silva,59,c
+Cruz e Silva,60,d
+Cruz e Silva,61,d
+Cruz e Silva,62,e
+Cruz e Silva,63,a
+Cruz e Silva,64,d
+Cruz e Silva,65,e
+Cruz e Silva,66,b
+Cruz e Silva,67,b
+Cruz e Silva,68,b
+Cruz e Silva,69,c
+Cruz e Silva,70,a
+Cruz e Silva,71,d
+Cruz e Silva,72,d
+Cruz e Silva,73,c
+Cruz e Silva,74,c
+Cruz e Silva,75,b
+Cruz e Silva,76,b
+Cruz e Silva,77,c
+Cruz e Silva,78,a
+Cruz e Silva,79,c
+Cruz e Silva,80,b
+Cruz e Silva,81,c
+Cruz e Silva,82,b
+Cruz e Silva,83,b
+Cruz e Silva,84,b
+Cruz e Silva,85,a
+Cruz e Silva,86,d
+Cruz e Silva,87,d
+Cruz e Silva,88,d
+Cruz e Silva,89,a
+Cruz e Silva,90,c
+Userl Civico,1,e
+Userl Civico,2,b
+Userl Civico,3,e
+Userl Civico,4,c
+Userl Civico,5,d
+Userl Civico,6,b
+Userl Civico,7,d
+Userl Civico,8,e
+Userl Civico,9,d
+Userl Civico,10,b
+Userl Civico,11,d
+Userl Civico,12,c
+Userl Civico,13,c
+Userl Civico,14,e
+Userl Civico,15,c
+Userl Civico,16,e
+Userl Civico,17,a
+Userl Civico,18,e
+Userl Civico,19,b
+Userl Civico,20,e
+Userl Civico,21,b
+Userl Civico,22,e
+Userl Civico,23,e
+Userl Civico,24,a
+Userl Civico,25,b
+Userl Civico,26,d
+Userl Civico,27,e
+Userl Civico,28,b
+Userl Civico,29,d
+Userl Civico,30,a
+Userl Civico,31,a
+Userl Civico,32,c
+Userl Civico,33,a
+Userl Civico,34,c
+Userl Civico,35,b
+Userl Civico,36,e
+Userl Civico,37,c
+Userl Civico,38,c
+Userl Civico,39,b
+Userl Civico,40,b
+Userl Civico,41,b
+Userl Civico,42,d
+Userl Civico,43,b
+Userl Civico,44,d
+Userl Civico,45,c
+Userl Civico,46,a
+Userl Civico,47,c
+Userl Civico,48,c
+Userl Civico,49,e
+Userl Civico,50,b
+Userl Civico,51,d
+Userl Civico,52,b
+Userl Civico,53,e
+Userl Civico,54,b
+Userl Civico,55,d
+Userl Civico,56,a
+Userl Civico,57,a
+Userl Civico,58,c
+Userl Civico,59,c
+Userl Civico,60,a
+Userl Civico,61,c
+Userl Civico,62,c
+Userl Civico,63,a
+Userl Civico,64,d
+Userl Civico,65,c
+Userl Civico,66,d
+Userl Civico,67,b
+Userl Civico,68,a
+Userl Civico,69,b
+Userl Civico,70,b
+Userl Civico,71,d
+Userl Civico,72,e
+Userl Civico,73,b
+Userl Civico,74,c
+Userl Civico,75,a
+Userl Civico,76,a
+Userl Civico,77,c
+Userl Civico,78,b
+Userl Civico,79,b
+Userl Civico,80,b
+Userl Civico,81,a
+Userl Civico,82,b
+Userl Civico,83,a
+Userl Civico,84,c
+Userl Civico,85,c
+Userl Civico,86,c
+Userl Civico,87,a
+Userl Civico,88,c
+Userl Civico,89,c
+Userl Civico,90,b
+Fernanda,1,
+Fernanda,2,
+Fernanda,3,
+Fernanda,4,
+Fernanda,5,
+Fernanda,6,
+Fernanda,7,
+Fernanda,8,
+Fernanda,9,
+Fernanda,10,
+Fernanda,11,
+Fernanda,12,
+Fernanda,13,
+Fernanda,14,
+Fernanda,15,
+Fernanda,16,
+Fernanda,17,
+Fernanda,18,
+Fernanda,19,
+Fernanda,20,
+Fernanda,21,
+Fernanda,22,
+Fernanda,23,
+Fernanda,24,
+Fernanda,25,
+Fernanda,26,
+Fernanda,27,
+Fernanda,28,
+Fernanda,29,
+Fernanda,30,
+Fernanda,31,
+Fernanda,32,
+Fernanda,33,
+Fernanda,34,
+Fernanda,35,
+Fernanda,36,
+Fernanda,37,
+Fernanda,38,
+Fernanda,39,
+Fernanda,40,
+Fernanda,41,
+Fernanda,42,
+Fernanda,43,
+Fernanda,44,
+Fernanda,45,
+Fernanda,46,
+Fernanda,47,
+Fernanda,48,
+Fernanda,49,
+Fernanda,50,
+Fernanda,51,
+Fernanda,52,
+Fernanda,53,
+Fernanda,54,
+Fernanda,55,
+Fernanda,56,
+Fernanda,57,
+Fernanda,58,
+Fernanda,59,
+Fernanda,60,
+Fernanda,61,
+Fernanda,62,
+Fernanda,63,
+Fernanda,64,
+Fernanda,65,
+Fernanda,66,
+Fernanda,67,
+Fernanda,68,
+Fernanda,69,
+Fernanda,70,
+Fernanda,71,
+Fernanda,72,
+Fernanda,73,
+Fernanda,74,
+Fernanda,75,
+Fernanda,76,
+Fernanda,77,
+Fernanda,78,
+Fernanda,79,
+Fernanda,80,
+Fernanda,81,
+Fernanda,82,
+Fernanda,83,
+Fernanda,84,
+Fernanda,85,
+Fernanda,86,
+Fernanda,87,
+Fernanda,88,
+Fernanda,89,
+Fernanda,90,
