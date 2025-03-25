@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ### 4️⃣ Executar a API
 
 ```sh
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
 
 A API será iniciada em: **http://127.0.0.1:8000**
@@ -121,6 +121,30 @@ curl -X 'GET' 'http://127.0.0.1:8000/results/' -H 'accept: application/json'
 ```
 
 ---
+
+### 🖼️ 3. Prints demonstrativos
+
+- Inicializando a API:
+  ![alt text](.github/imgs/application_start.png)
+
+- Rotas no insominia/postman:
+  ![alt text](.github/imgs/insominia_routes.png)
+
+- Tentando buscar dados antes de enviar os arquivos:
+  ![alt text](.github/imgs/trying_to_get_data_before_sending.png)
+
+- Enviando os arquivos:
+
+  1. Corpo da requisição:
+     ![alt text](.github/imgs/sending_data_body.png)
+  2. Headers da requisição:
+     ![alt text](.github/imgs/sending_data.png)
+  3. Resposta da requisição:
+     ![alt text](.github/imgs/sending_data_response.png)
+
+- Buscando os dados:
+  ![alt text](.github/imgs/getting_data_after_sending_files.png)
+  `Sempre vai ter como base o ultimo arquivo enviado, além disso os dados são salvos em memoria para diminuir a complexidade do case.`
 
 ## 📝 Considerações
 
